@@ -4,7 +4,7 @@
     "picture": "alainchautard.png",
     "twitter": "AlainChautard",
     "website": "https://www.angulartraining.com/",
-    "bio": "Alain Chautard is a Google Developer Expert in Web Technologies / Angular. He started working with Angular JS in 2011. Since then he has worked with all Angular versions on a daily basis, both as a developer and as a technical trainer. He is the organizer of the Sacramento Angular Meetup group, co-organizer of the Google Developer Group chapter in Sacramento, California, and published author of the Packt video course 'Getting Started with Angular'",
+    "bio": "Alain Chautard 是 Web 技术/Angular 方面的 Google 开发者专家。他从 2011 年开始使用 Angular JS。从那时起，他每天都在使用所有 Angular 版本，既作为开发人员，也作为技术培训师。他是萨克拉门托 Angular Meetup 小组的组织者，加州萨克拉门托 Google 开发者小组的联合组织者，也是 Packt 视频课程“Angular 入门”的出版作者",
     "groups": [
       "GDE"
     ]
@@ -14,7 +14,7 @@
     "picture": "angom.jpg",
     "twitter": "adyngom",
     "website": "https://adyngom.com",
-    "bio": "Ady is a Google Developer Expert in Angular. His first interaction with a computer was playing PacMan but he was more interested in knowing how it was built than how much fun it was to play it. For the past 20 years, Ady has strived in building simple, engaging and very intuitive consumer facing products. As a JavaScript Teach Lead and UI Architect, he spends a bulk of his time producing intuitive systems that are easy to scale and maintain. When away from the keyboard, he enjoys the Georgia outdoors with his wife and three children. To him, the unpredictable weather is a known issue that simply adds to the overall charm and he would not have it otherwise.",
+    "bio": "Ady 是 Angular 方面的 Google 开发者专家。他第一次与计算机的互动是玩吃豆人，但他更感兴趣的是了解它是如何构建的，而不是玩它的乐趣有多大。在过去的 20 年里，Ady 一直致力于构建简单、引人入胜且非常直观的面向消费者的产品。作为 JavaScript 教学主管和 UI 架构师，他大部分时间都在构建易于扩展和维护的直观系统。当离开键盘时，他喜欢和妻子和三个孩子一起享受佐治亚州的户外活动。对他来说，不可预测的天气是一个众所周知的问题，它只会增加整体魅力，他不会有其他选择。",
     "groups": [
       "GDE"
     ]
@@ -27,14 +27,14 @@
     ],
     "twitter": "ahasall",
     "website": "https://www.amadousall.com",
-    "bio": "Amadou is a Frontend Software Engineer from Senegal based in France. He currently works at Air France where he helps developers build better Angular applications. Passionate about web technologies, Amadou is an international speaker, a technical writer, and a Google Developer Expert in Angular."
+    "bio": "Amadou 是一位来自塞内加尔的法国前端软件工程师。他目前在法国航空公司工作，帮助开发人员构建更好的 Angular 应用程序。Amadou 对 Web 技术充满热情，是一位国际演讲者、技术作家和 Angular 方面的 Google 开发者专家。"
   },
   "ahsanayaz": {
     "name": "Muhammad Ahsan Ayaz",
     "picture": "ahsanayaz.jpg",
     "twitter": "ahsan_ayz",
     "website": "https://medium.com/@ahsan.ayaz",
-    "bio": "Muhammad Ahsan Ayaz is Software Architect at Modus Create. He is absolutely passionate about Angular and Web Technologies. Uses Angular daily and talks about it everywhere. Runs NodeSchool Karachi and is a co-organizer of NgPakistan",
+    "bio": "Muhammad Ahsan Ayaz 是 Modus Create 的软件架构师。他对 Angular 和 Web 技术充满热情。每天都使用 Angular，并在任何地方谈论它。运营 NodeSchool Karachi，是 NgPakistan 的联合组织者",
     "groups": [
       "GDE"
     ]
@@ -46,7 +46,7 @@
     ],
     "picture": "ajitsinghkaler.jpg",
     "twitter": "ajitsinghkaler",
-    "bio": "Software Engineer in Bangalore, India who loves to learn something new and is interested in front end technologies"
+    "bio": "印度班加罗尔的软件工程师，喜欢学习新事物，对前端技术感兴趣"
   },
   "alan-agius4": {
     "name": "Alan Agius",
@@ -55,14 +55,14 @@
     ],
     "lead": "dgp1130",
     "picture": "alan-agius4.jpg",
-    "bio": "Angular CLI Member, Loves TypeScript, Build Tools, Food, Beer & Coffee :)"
+    "bio": "Angular CLI 成员，喜欢 TypeScript、构建工具、食物、啤酒和咖啡 :)"
   },
   "alejandrocuba": {
     "name": "Alejandro Cuba Ruiz",
     "picture": "alejandrocuba.jpg",
     "twitter": "zorphdark",
     "website": "https://alejandrocuba.com/",
-    "bio": "Alejandro is a Principal Software Engineer, co-organizer of the Angular Community Meetup, and a member of the ng-Champions program at ng-conf. As the host of the Angularidades podcast, he engages in conversations with front-end developers and visual designers from the Spanish-speaking community.",
+    "bio": "Alejandro 是一名首席软件工程师，Angular 社区 Meetup 的共同组织者，也是 ng-conf 的 ng-Champions 计划成员。作为 Angularidades 播客的主持人，他与西班牙语社区的前端开发人员和视觉设计师进行对话。",
     "groups": [
       "GDE"
     ]
@@ -72,7 +72,7 @@
     "picture": "alisaduncan.jpg",
     "twitter": "alisaduncan",
     "website": "https://github.com/alisaduncan",
-    "bio": "Alisa is a software engineer and community builder who loves the thrill of learning new things. She is a core member of the ngGirls Team, co-organizes the local AngularKC meetup, and helps women learn web development as the Curriculum Director for the Coding & Cocktails program at Kansas City Women in Technology. When not coding, she enjoys drinking red wine with her husband while sitting on the patio.",
+    "bio": "Alisa 是一位软件工程师和社区建设者，她喜欢学习新事物的快感。她是 ngGirls 团队的核心成员，共同组织当地的 AngularKC 聚会，并作为堪萨斯城女性科技组织的“编码与鸡尾酒”项目的课程总监，帮助女性学习 Web 开发。当不编码时，她喜欢和丈夫坐在露台上喝红酒。",
     "groups": [
       "GDE"
     ]
@@ -82,7 +82,7 @@
     "picture": "alvarocamillont.png",
     "twitter": "alvarocamillont",
     "website": "https://alvarocamillont.dev/",
-    "bio": "Alvaro is a software engineer, speaker, and instructor in Brazil. He has worked in the technology industry for over 10 years and is dedicated to the development of enterprise business solutions.",
+    "bio": "Alvaro 是一位来自巴西的软件工程师、演讲者和讲师。他在技术行业工作了 10 多年，致力于开发企业业务解决方案。",
     "groups": [
       "GDE"
     ]
@@ -92,7 +92,7 @@
     "picture": "alex-rickabaugh.jpg",
     "twitter": "synalx",
     "website": "https://plus.google.com/+AlexRickabaugh/about",
-    "bio": "Core team member working to optimize the Angular platform for the next generation of applications, including mobile. Before joining the Angular team, Alex worked in the Google sales organization where he helped build the first large Angular application within Google.",
+    "bio": "核心团队成员，致力于优化 Angular 平台以用于下一代应用程序，包括移动应用程序。在加入 Angular 团队之前，Alex 在 Google 销售组织工作，帮助构建了 Google 内部第一个大型 Angular 应用程序。",
     "groups": [
       "Angular"
     ],
@@ -102,7 +102,7 @@
     "name": "Alyssa Nicoll",
     "picture": "alyssa.jpg",
     "twitter": "alyssanicoll",
-    "bio": "Alyssa is an Angular Developer Advocate for KUI and a GDE. Her two degrees (Web Design & Development and Psychology) feed her speaking career. She has spoken at over 35 conferences internationally. She is a weekly panelist on Adventures in Angular and Angular Air, which have a combined following of over 16,000 listeners. She enjoys gaming, scuba diving, and has a newborn that fondly goes by 'Mr. Milks'.",
+    "bio": "Alyssa 是 KUI 的 Angular 开发者倡导者和 GDE。她的两个学位（网页设计与开发和心理学）为她的演讲生涯提供了养分。她在国际上 35 多个会议上发表过演讲。她是 Adventures in Angular 和 Angular Air 的每周小组成员，这两个节目拥有超过 16,000 名听众。她喜欢玩游戏、潜水，并且有一个新生儿，他亲切地被称为“米尔克斯先生”。",
     "groups": [
       "GDE"
     ]
@@ -110,7 +110,7 @@
   "andrewkushnir": {
     "name": "Andrew Kushnir",
     "picture": "andrew-kushnir.jpg",
-    "bio": "Andrew is a software engineer at Google on the Angular Core team.",
+    "bio": "Andrew 是 Angular 核心团队的谷歌软件工程师。",
     "groups": [
       "Angular"
     ],
@@ -120,7 +120,7 @@
     "name": "Andrew Seguin",
     "picture": "andrewseguin.jpg",
     "website": "https://github.com/andrewseguin",
-    "bio": "Andrew is an engineer on the Angular Material team working on bringing material components to the world. When he’s not obsessing over pixels and design, he is probably off somewhere having adventures with his wife and daughters.",
+    "bio": "Andrew 是 Angular Material 团队的工程师，致力于将材料组件带到世界上。当他不沉迷于像素和设计时，他可能正在某处与妻子和女儿一起冒险。",
     "groups": [
       "Angular"
     ],
@@ -131,7 +131,7 @@
     "picture": "natalia_venditto.jpg",
     "twitter": "anfibiacreativa",
     "website": "https://github.com/anfibiacreativa",
-    "bio": "Natalia started working professionally as a web software developer in the early 2000s. She now works in the role of technical lead and software/solutions architect. She is a public speaker, content creator, GDE for Angular and Web Technologies, Microsoft MVP Award (Developer Technologies), and a mentor with the RoadtoGDE program.",
+    "bio": "Natalia 于 2000 年代初开始作为 Web 软件开发人员专业工作。她现在担任技术领导和软件/解决方案架构师。她是公共演讲者、内容创作者、Angular 和 Web 技术的 GDE，Microsoft MVP Award（开发人员技术）以及 RoadtoGDE 计划的导师。",
     "groups": [
       "GDE"
     ]
@@ -141,7 +141,7 @@
     "picture": "ankit-sharma.jpg",
     "twitter": "ankitsharma_007",
     "website": "https://ankitsharmablogs.com",
-    "bio": "SDE III @cisco | GDE for Angular | Microsoft MVP | Author | Speaker | Passionate Programmer",
+    "bio": "Cisco 的 SDE III | Angular GDE | Microsoft MVP | 作者 | 演讲者 | 热情的程序员",
     "groups": [
       "GDE"
     ]
@@ -153,14 +153,14 @@
       "GDE"
     ],
     "twitter": "guacamoleankita",
-    "bio": "Ankita is an Angular developer, mentor and speaker. She is passionate about all things Angular and Design."
+    "bio": "Ankita 是一名 Angular 开发人员、导师和演讲者。她对所有与 Angular 和设计有关的事物充满热情。"
   },
   "antoniocardenas": {
     "name": "Antonio Cardenas",
     "picture": "antonio-cardenas.jpg",
     "twitter": "yeoudev",
     "website": "https://yeou.dev",
-    "bio": "Antonio is a senior Angular developer from Honduras, focus on immersive experiences and Web Performance, He is a public Speaker, Mentor and Facilitator for entrepreneurship programs as Techstars Startup Weekend, Content Creator and tech writer Cofounder of non profit organization @Macaotech, Love to share knowledge Typescript Coffe and Cats 🐱.",
+    "bio": "Antonio 是洪都拉斯的资深 Angular 开发人员，专注于沉浸式体验和 Web 性能，他是公共演讲者、导师和 Techstars Startup Weekend 等创业项目的协助者，同时也是非营利组织 @Macaotech 的联合创始人，热衷于分享关于 TypeScript、Coffe 和猫的知识 🐱。",
     "groups": [
       "GDE"
     ]
@@ -172,7 +172,7 @@
       "GDE"
     ],
     "twitter": "armandotrue",
-    "bio": "Armen is a senior Angular developer from Armenia, tech writer, speaker, mentor and a Google Developer Expert for Angular."
+    "bio": "Armen 是亚美尼亚的资深 Angular 开发人员，技术作家、演讲者、导师，以及 Angular 的谷歌开发专家。"
   },
   "arturovt": {
     "name": "Artur Androsovych",
@@ -181,12 +181,12 @@
       "GDE"
     ],
     "website": "https://ng-guru.io",
-    "bio": "Artur is an Angular expert and OSS core developer of various projects as NGXS, NG-ZORRO, single-spa, ngneat, and RxAngular. He focuses on runtime performance and has taught teams about Angular internals for the past few years."
+    "bio": "Artur 是 Angular 专家，也是 NGXS、NG-ZORRO、single-spa、ngneat 和 RxAngular 等各种项目的 OSS 核心开发者。他专注于运行时性能，并在过去几年教授团队有关 Angular 内部的知识。"
   },
   "atscott": {
     "name": "Andrew Scott",
     "picture": "andrewscott.jpg",
-    "bio": "Andrew is a software engineer at Google on the Angular Core team",
+    "bio": "Andrew 是 Angular 核心团队的谷歌软件工程师",
     "groups": [
       "Angular"
     ],
@@ -199,14 +199,14 @@
     ],
     "picture": "hafiz.jpg",
     "website": "https://github.com/ayazhafiz",
-    "bio": "Ayaz is an undergraduate student with interests in free software."
+    "bio": "Ayaz 是一名本科生，对自由软件感兴趣。"
   },
   "balramchavan": {
     "name": "Balram Chavan",
     "picture": "balram_chavan.jpg",
     "twitter": "uvbrain",
     "website": "https://balramchavan.com",
-    "bio": "Balram is a Google Developer Expert in Angular. He enjoys building complex web applications and cloud solutions. He is the author of the book Object Oriented Programming with Angular. He loves to write technical blogs mostly about Angular.",
+    "bio": "Balram 是 Angular 的谷歌开发专家。他喜欢构建复杂的 Web 应用程序和云解决方案。他是《使用 Angular 进行面向对象编程》一书的作者。他喜欢撰写技术博客，主要关于 Angular。",
     "groups": [
       "GDE"
     ]
@@ -215,7 +215,7 @@
     "name": "Aristeidis Bampakos",
     "picture": "aristeidis.jpg",
     "twitter": "abampakos",
-    "bio": "Aristeidis works as a Web Development Team Leader @ Plex-Earth, specializing in Angular development. He is the author of Learning Angular and Angular Projects books and also works as an Angular Senior Tech Instructor @ Code.Hub where he nurtures aspiring Angular developers and professionals. Aristeidis is currently leading the effort of making Angular accessible to the Greek development community by maintaining the Greek translation of the Angular documentation.",
+    "bio": "Aristeidis 在 Plex-Earth 担任 Web 开发团队领导，专攻 Angular 开发。他是 Learning Angular 和 Angular Projects 书籍的作者，也在 Code.Hub 担任 Angular 高级技术讲师，培养有抱负的 Angular 开发人员和专业人士。Aristeidis 目前正带领工作，让 Angular 对希腊开发社区可及，通过维护 Angular 文档的希腊语翻译。",
     "groups": [
       "GDE"
     ]
@@ -227,14 +227,14 @@
       "GDE"
     ],
     "picture": "bonnie.jpg",
-    "bio": "Bonnie has been specializing in Angular since 2013. She is the founder of ngHouston Angular Meetup and a regular panelist on Angular Air. She is also the very proud parent component of @thelittlestdev!"
+    "bio": "Bonnie 自 2013 年以来专注于 Angular。她是 ngHouston Angular Meetup 的创始人，也是 Angular Air 的常驻专家讨论嘉宾。她也是 @thelittlestdev 的非常自豪的父组件！"
   },
   "bezael": {
     "name": "Bezael Perez",
     "picture": "bezael_perez.jpg",
     "twitter": "bezaelperez",
     "website": "https://medium.com/@bezael",
-    "bio": "Bezael is an Angular Developer and a GDE. He is a technical content creator on Youtube and Udemy. He has spoken at over 50 conferences internationally. He enjoys gaming, basketball, and soccer",
+    "bio": "Bezael 是 Angular 开发人员和 GDE。他是 Youtube 和 Udemy 上的技术内容创作者。他在国际上参加了 50 多个会议演讲。他喜欢游戏、篮球和足球。",
     "groups": [
       "GDE"
     ]
@@ -244,7 +244,7 @@
     "picture": "brian-love.jpg",
     "twitter": "brian_love",
     "website": "https://brianflove.com",
-    "bio": "Brian is a software engineer and GDE in Angular with a passion for learning, writing, speaking, teaching and mentoring. Brian has been building web applications for over 20 years and has long been a fanboy of JavaScript. When not in front of his Macbook Pro Brian is in the Rocky Mountains skiing or hiking.",
+    "bio": "Brian 是 Angular 软件工程师和 GDE，热衷于学习、撰写、演讲、教学和指导。Brian 从事 Web 应用程序开发已超过 20 年，一直是 JavaScript 的铁粉。当不在 Macbook Pro 前时，Brian 可能在落基山脉滑雪或徒步旅行。",
     "groups": [
       "GDE"
     ]
@@ -253,7 +253,7 @@
     "name": "Brooke Avery",
     "picture": "bravery_pic.png",
     "twitter": "JediBravery",
-    "bio": "Brooke is a software engineer, GDE, & community builder. She is the director of the Angular Community Meetup, a co-producer/host of the Dev.Life Podcast, & has been a co-organizer for ng-conf. Brooke has a strong passion for education & helping others find success in their developer journeys. Outside of programming, Brooke loves to geek out on Star Wars and the Disney Parks.",
+    "bio": "Brooke 是软件工程师、GDE 和社区建设者。她是 Angular Community Meetup 的主任，Dev.Life Podcast 的联合制片人/主持人，并曾是 ng-conf 的共同组织者。Brooke 对教育和帮助他人在开发者之旅中取得成功充满热情。在编程之外，Brooke 热衷于《星球大战》和迪士尼乐园。",
     "groups": [
       "GDE"
     ]
@@ -263,7 +263,7 @@
     "picture": "mike-brocchi.jpg",
     "twitter": "brocco",
     "website": "https://github.com/Brocco",
-    "bio": "Mike (aka Brocco) is a Google Developer Expert in Web Technologies and Angular. He is passionate about teaching and helping others. You can find him online as half of the ngBS live stream and also as a panelist on the Angular Air video broadcast.",
+    "bio": "Mike（又名 Brocco）是 Web 技术和 Angular 的谷歌开发专家。他热衷于教学和帮助他人。你可以在线找到他，他是 ngBS 直播的一半，也是 Angular Air 视频广播的专家讨论嘉宾。",
     "groups": [
       "GDE"
     ]
@@ -273,7 +273,7 @@
     "picture": "carloscaballero.jpg",
     "twitter": "Carlillo",
     "website": "https://carloscaballero.io/",
-    "bio": "Carlos Caballero is a computer science engineer and a PhD in Computer Science from the University of Málaga. He earned his masters in Software Engineering and Artificial Intelligence. He is a full-time teacher in vocational training. He has written several teaching books and more than a dozen research articles in the first international journals.",
+    "bio": "Carlos Caballero 是马拉加大学的计算机科学工程师和计算机科学博士。他获得了软件工程和人工智能的硕士学位。他是职业培训中的全职教师。他撰写了几本教学书籍和十多篇研究文章发表在国际期刊上。",
     "groups": [
       "GDE"
     ]
@@ -291,14 +291,14 @@
       "Collaborators"
     ],
     "picture": "cexbrayat.jpg",
-    "bio": "Author of `Become a ninja with Angular (2+)` https://books.ninja-squad.com/angular - Angular trainer and @Ninja-Squad co-founder"
+    "bio": "《成为 Angular（2+）忍者》的作者 https://books.ninja-squad.com/angular - Angular 讲师和 @Ninja-Squad 联合创始人"
   },
   "chrisnoring": {
     "name": "Christoffer Noring",
     "picture": "chrisnoring.jpg",
     "twitter": "chris_noring",
     "website": "https://softchris.github.io",
-    "bio": "Chris is a Full Stack Developer at McKinsey. A Google Developer Expert in Web Technologies and Angular. He is also a Nativescript Developer Expert. He is one of the organizers of the Angular conference ngVikings and an author of the book RxJS 5 Ultimate",
+    "bio": "Chris 是 McKinsey 的全栈开发人员。他是 Web 技术和 Angular 的谷歌开发专家。他还是 Nativescript 开发专家。他是 Angular 大会 ngVikings 的组织者之一，也是书籍《RxJS 5 终极指南》的作者",
     "groups": [
       "GDE"
     ]
@@ -308,7 +308,7 @@
     "picture": "christianliebel.jpg",
     "twitter": "christianliebel",
     "website": "https://christianliebel.com",
-    "bio": "Christian helps enterprises and independent software vendors to develop fast, modern, cross-platform business applications based on Angular. Being a Google GDE, Microsoft MVP and member of the W3C Web Applications working group, he speaks about Angular and Progressive Web Apps at user groups and conferences, both national and international.",
+    "bio": "Christian 帮助企业和独立软件供应商基于 Angular 开发快速、现代、跨平台的业务应用程序。作为 Google GDE、Microsoft MVP 和 W3C Web 应用程序工作组成员，他在国内外的用户组和会议上演讲关于 Angular 和渐进式 Web 应用程序的主题。",
     "groups": [
       "GDE"
     ]
@@ -318,7 +318,7 @@
     "picture": "christianweyer.jpg",
     "twitter": "ChristianWeyer",
     "website": "https://www.thinktecture.com",
-    "bio": "Co-founder and CTO of Thinktecture AG, as well as Google GDE and Microsoft MVP. Since two decades active as an engaged and passionate speaker on several software conferences and events all over the world. Some people call him 'Mr. Cross-Platform'.",
+    "bio": "Thinktecture AG 的联合创始人兼首席技术官，Google GDE 和微软 MVP。 自两十年来，一直是全球多个软件会议和活动上积极投入和热情洋溢的演讲者。一些人称他为“跨平台先生”。",
     "groups": [
       "GDE"
     ]
@@ -327,7 +327,7 @@
     "name": "Ciro Nunes",
     "picture": "cironunes.jpg",
     "twitter": "cironunesdev",
-    "bio": "Ciro is the Lead Front-end Engineer of CrossEngage and Google Developer Expert in Web Technologies.",
+    "bio": "Ciro 是 CrossEngage 的首席前端工程师，也是 Google Web 技术专家。",
     "groups": [
       "GDE"
     ]
@@ -345,7 +345,7 @@
     "picture": "connieleung.jpg",
     "twitter": "connieleung404",
     "website": "https://www.blueskyconnie.com",
-    "bio": "Connie is a software architect who is passionate about Angular, NestJS and web technologies. She loves coding with Angular and NestJS, and blogging about these topics to share knowledge to members in the communities. Connie is the channel host of Angular Nation East where she hosts events and do talks to Angular developers in the APAC region.",
+    "bio": "Connie 是一名对 Angular、NestJS 和 Web 技术充满热情的软件架构师。她喜欢使用 Angular 和 NestJS 进行编码，同时通过博客分享知识给社区成员。Connie 是 Angular Nation East 的频道主持人，在该频道举办活动并向亚太地区的 Angular 开发人员做演讲。",
     "groups": [
       "GDE"
     ]
@@ -355,7 +355,7 @@
     "picture": "cory-rylan.jpg",
     "twitter": "coryrylan",
     "website": "https://coryrylan.com",
-    "bio": "Cory is a full time front end web developer. He works full time building responsive web applications and progressive web apps. When not building web apps he is busy teaching Angular and other web technologies in workshops and conferences. He loves the web and is optimistic of the places it can take us.",
+    "bio": "Cory 是一名全职前端网页开发人员。他全职工作于构建响应式网页应用和渐进式网络应用。在不构建网络应用时，他忙于在研讨会和会议中教授 Angular 和其他网络技术。他热爱网络，并对它带我们去的地方充满乐观。",
     "groups": [
       "GDE"
     ]
@@ -364,7 +364,7 @@
     "name": "Kristiyan Kostadinov",
     "picture": "crisbeto.jpg",
     "website": "http://crisbeto.com/",
-    "bio": "Kristiyan is a front-end developer, passionate open-source contributor and a core team member on Angular Material.",
+    "bio": "Kristiyan 是一名前端开发人员，热衷于开源贡献，并是 Angular Material 核心团队成员。",
     "groups": [
       "Angular"
     ],
@@ -375,7 +375,7 @@
     "picture": "danwahlin.jpg",
     "twitter": "DanWahlin",
     "website": "https://codewithdan.com",
-    "bio": "Dan Wahlin founded Wahlin Consulting which provides consulting and onsite/online training services on Web technologies such as JavaScript, Angular, TypeScript, Node.js, C#, ASP.NET Core, Web API, and Docker. He’s also published many developer courses on Pluralsight.com and Udemy.com. Dan is a Google GDE, Docker Captain, and Microsoft MVP and Regional Director and speaks at conferences and user groups around the world.  Dan has written several books on Web technologies, hundreds of technical articles and blog posts (https://blog.codewithdan.com) and runs the 'Code with Dan Web Weekly Newsletter' - a great way to stay up on the latest technologies. Follow Dan on Twitter @DanWahlin.",
+    "bio": "Dan Wahlin 创立了 Wahlin Consulting，提供有关 Web 技术（如 JavaScript、Angular、TypeScript、Node.js、C#、ASP.NET Core、Web API 和 Docker）的咨询和现场/在线培训服务。他还在 Pluralsight.com 和 Udemy.com 上发布了许多开发者课程。Dan 是 Google GDE、Docker Captain、微软 MVP 和区域总监，他在全球各地的会议和用户组中发表演讲。Dan 写了几本关于 Web 技术的书籍，数百篇技术文章和博客文章（https://blog.codewithdan.com），并经营“Code with Dan Web Weekly Newsletter” - 这是了解最新技术的好方法。在 Twitter 上关注 Dan @DanWahlin。",
     "groups": [
       "GDE"
     ]
@@ -385,7 +385,7 @@
     "picture": "danyparedes.jpg",
     "twitter": "danywalls",
     "website": "https://www.danywalls.com",
-    "bio": "Dany is a Google Developer Expert on Angular and loves sharing content and writing articles about Angular, Typescript, and Testing. In his spare time, he watches NBA games and enjoys the Beach.",
+    "bio": "Dany 是 Angular 的 Google 开发者专家，热衷于分享有关 Angular、TypeScript 和测试的内容并撰写文章。在业余时间，他观看 NBA 比赛并享受海滩。",
     "groups": [
       "GDE"
     ]
@@ -395,7 +395,7 @@
     "picture": "deborah.jpg",
     "twitter": "deborahkurata",
     "website": "https://blogs.msmvps.com/deborahk/",
-    "bio": "Deborah is a software developer, author, and Google Developer Expert. She is author of several Pluralsight courses including: 'Angular 2: Getting Started' and ‘Angular Routing’",
+    "bio": "Deborah 是一名软件开发人员、作者和 Google 开发者专家。她是 Pluralsight 课程的作者，包括：“Angular 2: 入门”和“Angular 路由”。",
     "groups": [
       "GDE"
     ]
@@ -405,7 +405,7 @@
     "picture": "patovargas.png",
     "twitter": "devpato",
     "website": "https://developers.google.com/community/experts/directory/profile/profile-patricio_vargas",
-    "bio": "Pato is Google Developer Expert on Angular & Web Technologies, Auth0 Ambassador, Women Techmaker Ambassador and Media Developer Expert at Cloudinary. He loves to mentor people in technology, write articles, contribute to open source, speak at conferences/meetups, and advocate technologies that he loves.",
+    "bio": "Pato 是 Angular &amp; Web 技术的 Google 开发者专家，Auth0 大使，Women Techmaker 大使和 Cloudinary 的媒体开发专家。他喜欢指导人们学习技术、撰写文章、贡献于开源项目、在会议/聚会上演讲，并倡导他热爱的技术。",
     "groups": [
       "GDE"
     ]
@@ -415,7 +415,7 @@
     "picture": "devversion.jpg",
     "twitter": "devversion",
     "website": "https://github.com/devversion",
-    "bio": "Paul is a Software Engineer at Google. He is part of the Angular team since 2016.",
+    "bio": "Paul 是谷歌的软件工程师。自 2016 年以来，他一直是 Angular 团队的一员。",
     "groups": [
       "Angular"
     ],
@@ -426,7 +426,7 @@
     "picture": "dgp1130.jpg",
     "twitter": "develwoutacause",
     "website": "https://github.com/dgp1130",
-    "bio": "Doug is an overly-opinionated software developer with a passion for making awesome developer tools. He is motivated primarily by his selfish desire to make his own life easier, but loves to share his tools and workflows with others to make everyone's lives easier.",
+    "bio": "Doug 是一个充满主张的软件开发人员，热衷于制作出色的开发者工具。他主要受到让自己生活更轻松的私人欲望的驱使，但他乐于与他人分享他的工具和工作流程，以使每个人的生活更轻松。",
     "groups": [
       "Angular"
     ]
@@ -434,7 +434,7 @@
   "dmezhenskyi": {
     "name": "Dmytro Mezhenskyi",
     "picture": "dmytro-mezhenskyi.jpg",
-    "bio": "Dmytro is a self-taught Frontend Developer, originally from Ukraine and currently living in Vienna, Austria. He is also a content creator and author of a YouTube channel \"Decoded Frontend\".",
+    "bio": "Dmytro 是一名自学成才的前端开发人员，原籍乌克兰，目前居住在奥地利维也纳。他还是一个内容创作者，拥有 YouTube 频道“Decoded Frontend”。",
     "groups": [
       "GDE"
     ],
@@ -446,7 +446,7 @@
     "picture": "doguhan.jpg",
     "twitter": "duluca",
     "website": "https://angularforenterprise.com",
-    "bio": "Doguhan is a GDE in Angular and Web Technologies. He is the author of Angular for Enterprise-Ready Web Applications, a speaker, organizer for AngularDC, and OSS contributor. When away from a screen, he enjoys playing Go, building legos, and claims to be an avid mixologist.",
+    "bio": "Doguhan 是 Angular 和 Web 技术的 Google 开发者专家。他是《面向企业级 Web 应用的 Angular》的作者，也是 AngularDC 的组织者和 OSS 贡献者。远离屏幕时，他喜欢下围棋、拼乐高，并自称是一个狂热的调酒师。",
     "groups": [
       "GDE"
     ]
@@ -455,7 +455,7 @@
     "name": "Dylan Hunn",
     "picture": "dylan-hunn.jpg",
     "twitter": "dylhunn",
-    "bio": "Dylan is a software engineer at Google on the Angular Core team. He loves board games, the open web, and adorable rabbits.",
+    "bio": "Dylan 是 Google Angular 核心团队的软件工程师。他热爱桌游、开放式网络和可爱的兔子。",
     "groups": [
       "Angular"
     ],
@@ -465,7 +465,7 @@
     "name": "Elad Bezalel",
     "picture": "eladbezalel.jpg",
     "website": "https://github.com/EladBezalel",
-    "bio": "Elad is a fullstack developer with a very strong love for design. Since 8 years old, he's been designing in Photoshop and later on fell in love with programing. This strong bond between design and computer programming gave birth to a new kind of love. And he is currently doing the combination of both, as a core member of the ngMaterial project.",
+    "bio": "Elad 是一名全栈开发人员，非常热爱设计。从 8 岁开始，他就在 Photoshop 中设计，并后来爱上了编程。设计和计算机编程之间的紧密联系诞生了一种新的爱。他目前作为 ngMaterial 项目的核心成员，将两者的结合发挥到极致。",
     "groups": [
       "GDE"
     ]
@@ -474,7 +474,7 @@
     "name": "Raúl Jiménez",
     "picture": "raul.jpg",
     "twitter": "elecash",
-    "bio": "Raul works as a CEO and Front-end Architect at Byte Default for companies around the world helping them to build high-performance web apps. In his spare time he's usually working on Videogular, involved in local meetups, speaking at conferences and contributing to open source projects.",
+    "bio": "Raul 在 Byte Default 担任首席执行官和前端架构师，为全球公司提供帮助，帮助他们构建高性能的网络应用。在业余时间，他通常忙于开发 Videogular，参与当地聚会，发表会议演讲，并为开源项目做贡献。",
     "groups": [
       "GDE"
     ]
@@ -484,7 +484,7 @@
     "picture": "eliraneliassy.jpg",
     "twitter": "eliraneliassy",
     "website": "https://eliassy.dev",
-    "bio": "Eliran is an Experienced FE developer, located in Tel Aviv, Israel. He is a developer, trainer, and consultant with a focus on Angular and the eco-system around it. He gives talks and workshops on Angular, RXJS, NGRX, and related technologies. As an active part of the community, he is constantly involved in growing it and interacting with the members. Eliran is one of the Organisers of AngularUP Annual Conference in Tel Aviv and also an organizer and leading the Angular meetup & community in Israel. He often speaks at conferences and meetups and also writes for AngualrInDepth.com.",
+    "bio": "Eliran 是一位位于以色列特拉维夫的经验丰富的前端开发人员。作为一名开发人员、培训师和顾问，他专注于 Angular 及其周边生态系统。他在 Angular、RXJS、NGRX 和相关技术上进行演讲和研讨会。作为社区的积极一员，他不断参与其中并与成员互动。Eliran 是 AngularUP 年度大会的组织者之一，也是以色列 Angular 聚会和社区的组织者和领导者。他经常在会议和聚会上发表演讲，也为 AngularInDepth.com 写作。",
     "groups": [
       "GDE"
     ]
@@ -494,7 +494,7 @@
     "picture": "eneajahollari.jpeg",
     "twitter": "enea_jahollari",
     "website": "https://eneajaho.me",
-    "bio": "Software Engineer working with Angular every day. Having developed, audited, and optimized multiple kinds of Angular applications has made me appreciate Angular as a framework for its capabilities! I speak at conferences and meetups and enjoy participating in the dev community and OSS. I also blog and tweet a lot about Angular's latest news, updates, pull requests, best practices, and much more.",
+    "bio": "作为一名每天都在使用 Angular 的软件工程师。开发、审查和优化多种类型的 Angular 应用程序使我欣赏 Angular 作为一个框架的能力！我在会议和聚会上演讲，并乐于参与开发者社区和开源项目。我也经常在博客和推特上分享有关 Angular 最新消息、更新、拉取请求、最佳实践等内容。",
     "groups": [
       "GDE"
     ]
@@ -503,7 +503,7 @@
     "name": "Josue Gutierrez",
     "picture": "josue.jpg",
     "twitter": "eusoj",
-    "bio": "Based in Mexico, Josue has been web developer since the last 10 years, he is part of the Google Developer Expert Program, passionate about teaching and building communities",
+    "bio": "Josue 在过去的 10 年里一直担任 Web 开发人员，他是 Google 开发者专家计划的一部分，热衷于教育和建立社区。",
     "groups": [
       "GDE"
     ]
@@ -513,7 +513,7 @@
     "picture": "fabiangosebrink.jpg",
     "twitter": "FabianGosebrink",
     "website": "https://fabian-gosebrink.com",
-    "bio": "Fabian Gosebrink is a Google Developer Expert for Angular and Web Technologies, Microsoft MVP and Web Developer for ASP.NET Core and Angular. As a professional software engineer, consultant and trainer, he advises and supports customers in the implementation of frontend, backend, and mobile development of web applications.",
+    "bio": "Fabian Gosebrink 是 Angular 和 Web 技术的 Google 开发者专家，还是 ASP.NET Core 和 Angular 的微软 MVP 和 Web 开发人员。作为专业软件工程师、顾问和培训师，他在前端、后端和移动端开发中为客户提供建议和支持。",
     "groups": [
       "GDE"
     ]
@@ -523,7 +523,7 @@
     "picture": "famzil.jpg",
     "twitter": "fati_amzil",
     "website": "https://fatimaamzil.com",
-    "bio": "Frontend software engineer and Google Developer Expert for Angular",
+    "bio": "前端软件工程师，Angular 的 Google 开发者专家。",
     "groups": [
       "GDE"
     ]
@@ -533,7 +533,7 @@
     "picture": "fmalcher.jpg",
     "twitter": "fmalcher01",
     "website": "https://angular.schule",
-    "bio": "Ferdinand is a developer, trainer, and international speaker from Leipzig, Germany. He is co-author of the German Angular book and loves to share knowledge – that's why he writes books and blog posts, speaks at meetups and conferences, does Angular training and works as a consultant in his company \"Angular.Schule\".",
+    "bio": "Ferdinand 是来自德国莱比锡的开发者、培训师和国际演讲者。他是德国 Angular 书籍的合著者，热衷于分享知识 - 这就是为什么他撰写书籍和博客文章，参加聚会和会议演讲，进行 Angular 培训并在他的公司“Angular.Schule”担任顾问。",
     "groups": [
       "GDE"
     ]
@@ -542,7 +542,7 @@
     "name": "Gerard Sans",
     "picture": "gerardsans.jpg",
     "twitter": "gerardsans",
-    "bio": "Gerard is very excited about the future of the Web and JavaScript. Always happy Computer Science Engineer and humble Google Developer Expert. He loves to share his learnings by giving talks, trainings and writing about cool technologies. He loves running AngularZone and GraphQL London, mentoring students and giving back to the community.",
+    "bio": "Gerard 对 Web 和 JavaScript 的未来充满期待。他是一位总是开心的计算机科学工程师，谦逊的 Google 开发者专家。他喜欢通过演讲、培训和撰写关于酷技术的文章来分享他的学习经验。他喜欢主持 AngularZone 和 GraphQL London，指导学生并回馈社区。",
     "groups": [
       "GDE"
     ]
@@ -559,7 +559,7 @@
     "name": "Matthieu Riegler",
     "picture": "jeanmeche.jpg",
     "twitter": "jean__meche",
-    "bio": "Software engineer from the french Alps. Matthieu was born and raised with the web and now he love's building it! He currently works for Viseo.",
+    "bio": "Matthieu 是来自法国阿尔卑斯山的软件工程师。他从小就和网络一起长大，现在热衷于构建网络！他目前在 Viseo 工作。",
     "groups": [
       "Collaborators"
     ]
@@ -569,7 +569,7 @@
     "picture": "jecelynyeen.jpg",
     "twitter": "jecelynyeen",
     "website": "https://developers.google.com/experts/people/jecelyn-yeen",
-    "bio": "GDE (Google Developer Expert) Angular and Web Technologies, Women Who Code KL Director, Jecelyn specializes in professional application development with technologies, including Angular, HTML5, Typescript, JavaScript, CSS, C#, NodeJs, Cloud and ASP.NET.",
+    "bio": "Jecelyn 是 Google 开发者专家（Google Developer Expert）Angular 和 Web 技术，Women Who Code KL 主任。她专注于使用 Angular、HTML5、Typescript、JavaScript、CSS、C#、NodeJs、云和 ASP.NET 等技术进行专业应用程序开发。",
     "groups": [
       "GDE"
     ]
@@ -579,7 +579,7 @@
     "picture": "jeffwhelpley.jpg",
     "twitter": "jeffwhelpley",
     "website": "https://medium.com/@jeffwhelpley",
-    "bio": "Jeff Whelpley is a Google Developer Expert and the CTO of GetHuman. He is the co-organizer of the Angular Boston meetup group, co-creator of Angular Universal, former host of AngularAir and frequent speaker at Angular events.",
+    "bio": "Jeff Whelpley 是 Google 开发者专家和 GetHuman 的首席技术官。他是 Angular Boston 聚会组织者，Angular Universal 的联合创始人，曾主持 AngularAir 并经常在 Angular 事件中演讲。",
     "groups": [
       "GDE"
     ]
@@ -589,7 +589,7 @@
     "picture": "jelbourn.jpg",
     "twitter": "jelbourn",
     "website": "https://plus.google.com/+JeremyElbourn/",
-    "bio": "Angular Material Team Lead. FE Engineer @ Google specializing in AngularJS, component design, and the cleanest of code.",
+    "bio": "Angular Material 团队负责人。Google 前端工程师，专注于 AngularJS、组件设计和最干净的代码。",
     "groups": [
       "Angular"
     ]
@@ -598,7 +598,7 @@
     "name": "Jeremy Wilken",
     "picture": "jeremywilken.jpg",
     "twitter": "gnomeontherun",
-    "bio": "Based in Austin Texas, Jeremy is an application architect and homebrewer. He is a Google Developer Expert in Web Technologies and Angular, with a focus on speaking and training and author of Angular in Action and Ionic in Action.",
+    "bio": "Jeremy 是来自得克萨斯州奥斯汀的应用架构师和自酿啤酒者。他是 Web 技术和 Angular 的 Google 开发者专家，专注于演讲和培训，并是《Angular in Action》和《Ionic in Action》的作者。",
     "groups": [
       "GDE"
     ]
@@ -608,7 +608,7 @@
     "picture": "jessicajaniuk.jpg",
     "twitter": "thepunderwoman",
     "website": "https://github.com/jessicajaniuk",
-    "bio": "Jessica is a software engineer at Google. In her free time she is a historical fencer, astromech droid builder, photographer, pun purveyor, occasional cosplayer, and full time cat mom.",
+    "bio": "Jessica 是一名 Google 的软件工程师。在业余时间，她是一名历史剑客、星球机械人制造者、摄影师、双关语传播者、偶尔的角色扮演者和全职猫妈。",
     "groups": [
       "Angular"
     ],
@@ -623,13 +623,13 @@
     "picture": "JiaLiPassion.jpg",
     "twitter": "Jialipassion",
     "website": "https://github.com/JiaLiPassion",
-    "bio": "A programmer with passion, angular/zone.js guy! Web frontend engineer @thisdot"
+    "bio": "一位充满激情的程序员，Angular/Zone.js 爱好者！Web 前端工程师@thisdot"
   },
   "joeeames": {
     "name": "Joe Eames",
     "picture": "joeeames.jpg",
     "twitter": "josepheames",
-    "bio": "Joe Eames is a developer and educator. He publishes course on Angular and JavaScript on Pluralsight.com. He is an organizer of ng-conf, a Google Developer Expert in Angular, gives lots of talks & workshops, and loves all things web.",
+    "bio": "Joe Eames 是开发者和教育工作者。他在 Pluralsight.com 上发布关于 Angular 和 JavaScript 的课程。他是 ng-conf 的组织者，Angular 的 Google 开发者专家，做了很多演讲和讲习班，热爱一切与网络相关的事物。",
     "groups": [
       "GDE"
     ]
@@ -639,7 +639,7 @@
     "picture": "johanneshoppe.jpg",
     "twitter": "johanneshoppe",
     "website": "https://angular.schule",
-    "bio": "Johannes works as a software architect and consultant for Angular. He is co-author of the German Angular book and a passionate speaker. With his company \"Angular.Schule\" he offers public Angular training and consulting. Johannes is head of the Angular Meetup in Heidelberg, Germany, and is engaged in a couple of open source projects.",
+    "bio": "Johannes 是 Angular 的软件架构师和顾问。他是德国 Angular 书籍的合著者，热情演讲者。他的公司“Angular.Schule”提供公共 Angular 培训和咨询。Johannes 是德国海德堡 Angular Meetup 的负责人，并参与了一些开源项目。",
     "groups": [
       "GDE"
     ]
@@ -652,14 +652,14 @@
     "mentor": "alxhub",
     "picture": "joostk.jpg",
     "twitter": "devjoost",
-    "bio": "Joost is a Software Engineer from the Netherlands with an interest in open source software who likes to learn something new every day. He works at Blueriq during the day and contributes to Angular in his spare time, by working on the Angular compiler and runtime. He may review your PR even if you never asked for it ;)"
+    "bio": "Joost 是来自荷兰的软件工程师，对开源软件感兴趣，喜欢每天学习新知识。他白天在 Blueriq 工作，业余时间贡献于 Angular，通过工作于 Angular 编译器和运行时。即使你没要求，他也可能审阅你的 PR ;)"
   },
   "jordanpowell88": {
     "name": "Jordan Powell",
     "picture": "jordanpowell.jpg",
     "twitter": "jordanpowell88",
     "website": "https://jordanpowell.online",
-    "bio": "Jordan is a GDE (Google Developer Expert) and a self taught software engineer who is passionate about writing 'good code' that is easy to read, test and maintain over time. He has over a decade of freelance experience in software development, marketing, design and video production. He currently is a Developer Experience Engineer at Cypress.io and also serves as the CEO & Co-Founder for the non-profit Dream On: Global.",
+    "bio": "Jordan 是 Google 开发者专家，自学成才的软件工程师，热衷于编写易于阅读、测试和维护的“好代码”。他在软件开发、营销、设计和视频制作等领域有超过十年的自由职业经验。他目前是 Cypress.io 的开发体验工程师，同时也是非营利组织 Dream On: Global 的首席执行官和联合创始人。",
     "groups": [
       "GDE"
     ]
@@ -669,7 +669,7 @@
     "picture": "jorgeucano.jpg",
     "twitter": "jorgeucano",
     "website": "https://medium.com/@jorgeucano",
-    "bio": "After more than 10 years working in the tech industry, Jorge is a full stack developer with focus on JavaScript technologies. Today, Jorge is working at Hero Devs using Angular / RxJS / Firebase as well as other technologies. He delivered several courses and talks as well as write some tech articles on these subjects. Because of that, he was recognised as a Google Developer Expert in Angular & web technologies and Nativescript Developer Expert.",
+    "bio": "Jorge 在科技行业工作超过 10 年，是一名专注于 JavaScript 技术的全栈开发者。今天，Jorge 在 Hero Devs 使用 Angular / RxJS / Firebase 及其他技术工作。他提供了多个课程和演讲，并撰写了一些关于这些主题的技术文章。因此，他被认可为 Angular &amp; web 技术和 Nativescript 的 Google 开发者专家。",
     "groups": [
       "GDE"
     ]
@@ -687,7 +687,7 @@
     "picture": "joshuamorony.jpg",
     "twitter": "joshuamorony",
     "website": "https://joshmorony.com",
-    "bio": "Josh is a Software Engineer, Google Developer Expert for Angular, and Ionic Developer Expert. He is a consultant and content creator focused on advancing the skills of Angular and Ionic developers. He is the author of multiple books and courses including Ionic Start and Modern Angular.",
+    "bio": "Josh 是一名软件工程师，Angular 的 Google 开发者专家和 Ionic 开发者专家。他是一名专注于提升 Angular 和 Ionic 开发者技能的顾问和内容创作者。他是多本书籍和课程的作者，包括《Ionic Start》和《Modern Angular》。",
     "groups": [
       "GDE"
     ]
@@ -697,7 +697,7 @@
     "picture": "justinschwartzenberger.jpg",
     "twitter": "schwarty",
     "website": "https://schwarty.com",
-    "bio": "Justin (aka Schwarty) is a Google Developer Expert in Web Technologies and Angular, the host and maintainer of the weekly AngularAir live video broadcast, educator, writer and content creator. He has Angular courses available on LinkedIn Learning and Pluralsight and loves passing on years of full stack development knowledge to help empower others to find their inner awesomeness!",
+    "bio": "Justin（也称为 Schwarty）是 Web 技术和 Angular 的 Google 开发者专家，是每周 AngularAir 直播的主持人和维护者，教育工作者、作家和内容创作者。他在 LinkedIn Learning 和 Pluralsight 上提供 Angular 课程，热衷于传递多年全栈开发经验，帮助他人发现内在的卓越之处！",
     "groups": [
       "GDE"
     ]
@@ -707,7 +707,7 @@
     "picture": "juristr.jpg",
     "twitter": "juristr",
     "website": "https://juristr.com",
-    "bio": "Juri is a software engineer and freelance trainer and consultant currently mostly focusing on the frontend side using JavaScript, TypeScript and Angular. He has a passion for teaching and sharing his knowledge and experiences with others. This mostly happens by writing tech articles for his personal blog, by creating video courses for Egghead.io, during on-site workshops at companies or by speaking at conferences. In his free time he enjoys practicing Yoseikan Budo, a martial art where he currently owns the 3rd DAN black belt.",
+    "bio": "Juri 是软件工程师、自由培训师和顾问，目前主要关注前端，使用 JavaScript、TypeScript 和 Angular。他热爱教学，与他人分享知识和经验。他通过为个人博客撰写技术文章、在 Egghead.io 创建视频课程、在公司进行现场研讨会或在会议上演讲来实现这一目标。业余时间，他喜欢练习 Yoseikan Budo，一种武术，目前拥有三段黑带。",
     "groups": [
       "GDE"
     ]
@@ -717,7 +717,7 @@
     "picture": "kamilmysliwiec.jpg",
     "twitter": "kammysliwiec",
     "website": "https://github.com/kamilmysliwiec",
-    "bio": "Kamil Mysliwiec is a software engineer truly passionate about Web Technologies. Creator of NestJS, Co-Founder of Trilon.io, speaker, and trainer.",
+    "bio": "Kamil Mysliwiec 是一位真正热爱 Web 技术的软件工程师。NestJS 的创始人，Trilon.io 的联合创始人，演讲者和培训师。",
     "groups": [
       "GDE"
     ]
@@ -727,7 +727,7 @@
     "picture": "katerina.jpg",
     "twitter": "psybercity",
     "website": "https://mandarini.github.io/",
-    "bio": "Katerina is a front end software engineer, a conference speaker and AngularAthens meetup organizer. She is obsessed with sharing knowledge about things she loves. She is also trying to support diversity in the community. She lives with her cat in Athens.",
+    "bio": "Katerina 是一名前端软件工程师，会议演讲者和 AngularAthens 聚会组织者。她痴迷于分享她热爱的知识。她还在努力支持社区的多样性。她和她的猫一起生活在雅典。",
     "groups": [
       "GDE"
     ]
@@ -736,7 +736,7 @@
     "name": "Keilla Menezes Fernandes",
     "picture": "keilla.jpg",
     "twitter": "keillamenezes_",
-    "bio": "I am Senior Software Development Consultant in ThoughtWorks and GDE in Angular. Graduated in Computer Science from Federal University of Bahia, I have been worked with software development for more than 11 years. Since 2017, I started with Angular Framework and I went deep into front-end ecosystem and became more specialized in this area. I participate in a computer science community, Campinas Front-end, that promotes events in this area. In the end of 2016, I started to do technical talks. The passion for science is the engine that drives me to seek answers to the problems that computing aims to solve. Besides that, sharing knowledge and experiences is the path I choose to democratize the technology for all.",
+    "bio": "我是 ThoughtWorks 的高级软件开发顾问，也是 Angular 的 Google 开发者专家。我毕业于巴伊亚联邦大学计算机科学专业，从事软件开发工作已超过 11 年。自 2017 年以来，我开始接触 Angular 框架，并深入前端生态系统，专注于这个领域。我参与了一个计算机科学社区 Campinas Front-end，促进该领域的活动。2016 年底，我开始做技术演讲。对科学的热情是推动我寻找计算机旨在解决问题的动力。此外，分享知识和经验是我选择的路径，以使技术普惠于所有人。",
     "groups": [
       "GDE"
     ]
@@ -746,7 +746,7 @@
     "picture": "kevindavila.jpg",
     "twitter": "kevindaviladev",
     "website": "https://github.com/kevindaviladev",
-    "bio": "Kevin is a Google Developer Expert with a passion for web development. Share content and knowledge with everyone and be ready to learn as much as possible. Lover of Angular, Postgresql and frogs.",
+    "bio": "Kevin是一位对Web开发充满热情的Google开发专家。愿意与所有人分享内容和知识，并随时准备尽可能多地学习。他热爱Angular、Postgresql和青蛙。",
     "groups": [
       "GDE"
     ]
@@ -756,7 +756,7 @@
     "picture": "kevinyang.jpg",
     "twitter": "chgc",
     "website": "https://blog.kevinyang.net/",
-    "bio": "Kevin is a Angular Taiwan, Angular Girls Taiwan community organzier. He loves sharing knowledge with other developers through blogging, speaking, workshops.",
+    "bio": "Kevin是Angular Taiwan和Angular Girls Taiwan社区的组织者。他喜欢通过博客、演讲和研讨会与其他开发人员分享知识。",
     "groups": [
       "GDE"
     ]
@@ -765,7 +765,7 @@
     "name": "Kim Maida",
     "picture": "kimmaida.jpg",
     "twitter": "KimMaida",
-    "bio": "Kim is an an Angular consultant, developer, speaker, writer, and Google Developer Expert. She is passionate about learning from and sharing knowledge with other developers through blogging, speaking, workshops, and open source.",
+    "bio": "Kim是一位Angular顾问、开发人员、演讲者、作家和Google开发专家。她热衷于从其他开发人员那里学习并分享知识，通过博客、演讲、研讨会和开源项目。",
     "groups": [
       "GDE"
     ]
@@ -775,7 +775,7 @@
     "picture": "kevin-kreuzer.jpg",
     "twitter": "kreuzercode",
     "website": "http://kreuzercode.com",
-    "bio": "Kevin is a passionate freelance front-end engineer and Google Developer Expert based in Switzerland. He is a JavaScript enthusiast and fascinated by Angular. Kevin always tries to learn new things, expand his knowledge, and share it with others in the form of blog posts, workshops, podcasts, or presentations. He is a writer for various publications and the most active writer on Angular in-depth in 2019. Contributing to multiple projects and maintaining 7 npm packages, Kevin is also a big believer in open source. Furthermore, Kevin is a big football fan. Since his childhood, he has supported Real Madrid, which you might notice in a lot of his blog posts and tutorials.",
+    "bio": "Kevin是一位充满激情的自由职业前端工程师和Google开发专家，目前居住在瑞士。他是JavaScript爱好者，对Angular着迷。Kevin总是尝试学习新事物，扩展知识，并通过博客文章、研讨会、播客或演示与他人分享。他是多个出版物的作者，也是2019年Angular深度方面最活跃的作者。Kevin贡献于多个项目并维护着7个npm包，他也是开源的坚定信仰者。此外，Kevin是一位狂热的足球迷。自小，他就支持皇家马德里，你可能会在他的很多博客文章和教程中注意到这一点。",
     "groups": [
       "GDE"
     ]
@@ -785,7 +785,7 @@
     "picture": "kwintenpisman.jpg",
     "twitter": "KwintenP",
     "website": "https://strongbrew.io",
-    "bio": "Kwinten is a GDE for Angular with a passion for reactive coding. He works as a software engineer for Stackblitz. He shares his passion for Angular and coding through blogposts and training sessions with the company he co-founded called Strongbrew.",
+    "bio": "Kwinten是一位热衷于响应式编程的Angular GDE。他是Stackblitz的软件工程师。他通过博客文章和与他共同创办的Strongbrew公司的培训课程分享他对Angular和编程的热情。",
     "groups": [
       "GDE"
     ]
@@ -795,7 +795,7 @@
     "picture": "lacolaco.jpg",
     "twitter": "laco2net",
     "website": "https://lacolaco.net",
-    "bio": "Suguru is a community-loving Frontend developer and a lead of Angular Japan User Group. He organizes the largest Angular event in Japan (ng-japan). And he is a contributor to Angular by sending patches, writing, speaking, and localizing resources in Japanese.",
+    "bio": "Suguru是一位热爱社区的前端开发人员，也是Angular日本用户组的负责人。他组织了日本最大的Angular活动（ng-japan）。他通过提交补丁、写作、演讲和本土化资源到日语的方式为Angular做出贡献。",
     "groups": [
       "GDE"
     ]
@@ -805,7 +805,7 @@
     "picture": "laranewsom.jpg",
     "twitter": "laranerdsom",
     "website": "https://www.linkedin.com/in/lara-newsom",
-    "bio": "Lara is a Software Engineering Technical Leader on the Customer Experience Angular Team at Cisco. She is based in Des Moines, Iowa. In addition to speaking at conferences and talking about Angular and related technologies on the Angular Plus Show Podcast, Lara loves traveling with her husband and two teens. Much to the disappointment of her own two cats, Lara also enjoys fostering orphaned kittens. ",
+    "bio": "Lara是思科客户体验Angular团队的软件工程技术领导者。她位于爱荷华州得梅因。除了在会议上演讲并在Angular Plus Show Podcast中谈论Angular和相关技术外，Lara还喜欢和她的丈夫以及两个青少年一起旅行。尽管让她自己的两只猫感到失望，Lara也喜欢照顾孤儿小猫。",
     "groups": [
       "GDE"
     ]
@@ -815,7 +815,7 @@
     "picture": "leonardo.jpg",
     "twitter": "zizzamia",
     "website": "https://medium.com/@zizzamia",
-    "bio": "Leonardo is a Senior Software Engineer at Coinbase. He is deeply passionate about web performance and most recently developed Perfume.js to help companies prioritize roadmaps and business, through performance analytics. From 2018, co-organizer of the Angular San Francisco Meetup group and NGRome Conference.",
+    "bio": "Leonardo是Coinbase的高级软件工程师。他对网页性能充满热情，最近开发了Perfume.js来帮助公司通过性能分析优化路线图和业务。从2018年，他是Angular旧金山Meetup组织者和NGRome Conference共同组织者。",
     "groups": [
       "GDE"
     ]
@@ -825,7 +825,7 @@
     "picture": "luixaviles.jpg",
     "twitter": "luixaviles",
     "website": "https://luixaviles.com",
-    "bio": "Luis is an enthusiast of Open Source software and communities, as well as being a public speaker, a technology trainer and an author of courses and technical articles. He is the organizer of the Angular Bolivia community and NG Bolivia conference. When he's not coding, Luis is reading about Astronomy or nerding about outer space, photography or even doing Astrophotography.",
+    "bio": "Luis是一位开源软件和社区的热爱者，也是一位公共演讲者、技术培训师和课程和技术文章的作者。他是Angular玻利维亚社区和NG玻利维亚会议的组织者。当他不写代码时，Luis喜欢阅读天文学或者对外太空、摄影甚至进行天文摄影的探讨。",
     "groups": [
       "GDE"
     ]
@@ -833,7 +833,7 @@
   "madleinas": {
     "name": "Madleina Scheidegger",
     "picture": "madleinas.jpg",
-    "bio": "Manager of the Angular Framework team @Google.",
+    "bio": "Google Angular框架团队的经理。",
     "groups": [
       "Angular"
     ],
@@ -844,7 +844,7 @@
     "picture": "MainaWycliffe.jpg",
     "twitter": "mwycliffe_dev",
     "website": "https://mainawycliffe.dev/",
-    "bio": "Wycliffe is a Software Engineer from Kenya passionate about Teaching, Speaking, Writing, Open Source, and Mentorship. On top of that, he is passionate about Typescript and loves teaching developers how to get the most out of it.",
+    "bio": "Wycliffe是来自肯尼亚的软件工程师，热衷于教学、演讲、写作、开源和指导。除此之外，他对TypeScript充满热情，并喜欢教开发人员如何充分利用它。",
     "groups": [
       "GDE"
     ]
@@ -854,7 +854,7 @@
     "picture": "wassim.jpg",
     "twitter": "manekinekko",
     "website": "https://medium.com/@wassimchegham",
-    "bio": "Wassim (aka manekinekko on Twitter/Github) is a Developer Advocate at SFEIR, in Web technologies (Angular, Polymer, PWA, Web Components...). He is also a Developer Expert in Web technologies nominated by Google. He enjoys writing technical articles, meeting developers at events, speaking at conferences and contributing to open source projects. Wassim loves the Web Platform and works hard to move it forward.",
+    "bio": "Wassim（在Twitter/Github上称为manekinekko）是SFEIR的开发者倡导者，擅长Web技术（Angular、Polymer、PWA、Web Components等）。他还是被Google提名的Web技术开发专家。他喜欢撰写技术文章，参加活动与开发人员见面，演讲会议并为开源项目做出贡献。Wassim热爱Web平台，并努力推动其发展。",
     "groups": [
       "GDE"
     ],
@@ -865,7 +865,7 @@
     "picture": "steyer.jpg",
     "twitter": "ManfredSteyer",
     "website": "https://www.softwarearchitekt.at",
-    "bio": "Trainer and Consultant with focus on Angular. Writes for O'Reilly, the German Java Magazine and Heise. Regularly speaks at conferences.",
+    "bio": "专注于Angular的培训师和顾问。为O'Reilly、德国Java杂志和Heise撰写。定期在会议上演讲。",
     "mentor": "mgechev",
     "groups": [
       "GDE",
@@ -877,7 +877,7 @@
     "picture": "korneeva.jpg",
     "twitter": "BrowserPerson",
     "website": "https://www.linkedin.com/in/maria-korneeva/",
-    "bio": "Maria is a trainer and consultant with focus on Angular. She writes for ng-conf and speaks at tech meetups and conferences. In her tweets and articles Maria likes to share her learnings from everyday coding. Fun fact: she illustrates her stories herself because she likes drawing.",
+    "bio": "Maria是一位专注于Angular的培训师和顾问。她为ng-conf撰写文章，并在技术聚会和会议上演讲。在她的推文和文章中，Maria喜欢分享她从日常编码中学到的东西。有趣的是，她自己插图自己的故事，因为她喜欢画画。",
     "groups": [
       "GDE"
     ]
@@ -887,7 +887,7 @@
     "picture": "marko.jpg",
     "twitter": "MarkoStDev",
     "website": "https://github.com/markostanimirovic",
-    "bio": "Marko is a core member of the NgRx team, a Google Developer Expert in Angular, and an organizer of the Angular Belgrade group. He enjoys contributing to open source software, sharing knowledge through technical articles and talks, and playing guitar. He is also a Master of Science in Software Engineering from the University of Belgrade.",
+    "bio": "Marko是NgRx团队的核心成员，一位Angular的Google开发专家，也是Angular贝尔格莱德小组的组织者。他喜欢为开源软件做出贡献，通过技术文章和演讲分享知识，并弹吉他。他还是贝尔格莱德大学软件工程硕士。",
     "groups": [
       "GDE"
     ]
@@ -897,7 +897,7 @@
     "picture": "sedov.jpg",
     "website": "http://marsibarsi.me/",
     "twitter": "marsibarsi",
-    "bio": "Roman is an Angular Enthusiast and a Frontend Developer from Nizhny Novgorod, Russia. He writes tech articles, speaks at conferences, develops local GDG community and contributes to Open Source. He is also a co-creator of Taiga UI library and Ng Web APIs Open Source organization.",
+    "bio": "Roman是一位来自俄罗斯下诺夫哥罗德的Angular爱好者和前端开发人员。他撰写技术文章，参加会议，发展本地GDG社区并为开源做出贡献。他还是Taiga UI库和Ng Web APIs开源组织的共同创始人。",
     "groups": [
       "GDE"
     ]
@@ -906,7 +906,7 @@
     "name": "Martina Kraus",
     "picture": "martinakraus.jpg",
     "twitter": "MartinaKraus11",
-    "bio": "Martina is a software engineer and an Angular enthusiast. As a trainer, mentor and speaker she loves sharing knowledge about Web Technologies and Angular. She is Organizer of ngGirls and the local Angular Meetup",
+    "bio": "Martina是一位软件工程师和Angular爱好者。作为培训师、导师和演讲者，她热爱分享关于Web技术和Angular的知识。她是ngGirls和本地Angular Meetup的组织者。",
     "groups": [
       "GDE"
     ]
@@ -916,7 +916,7 @@
     "picture": "mashhood.jpg",
     "twitter": "mashhoodr",
     "website": "https://imars.info/",
-    "bio": "Mashhood is the principal technical consultant at Recurship and a Google Developer Expert. He  works with different startups in US and EU to helps them crawl through the technical maze and quickly build amazing products focused around the problems they are trying to solve. He specializes in using the latest web technologies available to execute the best possible solutions.",
+    "bio": "Mashhood是Recurship的首席技术顾问和Google开发专家。他与美国和欧洲的不同初创公司合作，帮助他们在技术迷宫中前行，快速构建围绕他们试图解决的问题的令人惊叹的产品。他专注于使用最新的Web技术来实现最佳解决方案。",
     "groups": [
       "GDE"
     ]
@@ -926,7 +926,7 @@
     "picture": "maximsalnikov.jpg",
     "twitter": "webmaxru",
     "website": "https://medium.com/@webmaxru",
-    "bio": "Oslo-based web front-end engineer, a Google Developer Expert in Angular, Web technologies and IoT. Active public speaker & trainer for the developer events. Leader of Norway’s largest meetups dedicated to web front-end and mobile development. Founder of ngVikings and Mobile Era conferences. Progressive Web Apps advocate.",
+    "bio": "位于奥斯陆的Web前端工程师，是Angular、Web技术和物联网的Google开发专家。活跃的公共演讲者和开发者活动培训师。挪威最大的关注Web前端和移动开发的meetup领导者。ngVikings和Mobile Era会议的创始人。渐进式Web应用的倡导者。",
     "groups": [
       "GDE"
     ]
@@ -936,7 +936,7 @@
     "picture": "minko.jpg",
     "twitter": "mgechev",
     "website": "https://blog.mgechev.com/",
-    "bio": "Software engineer who enjoys theoretical computer science and its practical applications. Speaker, author of the book 'Switching to Angular', codelyzer, Guess.js, and the Go linter revive. Working for faster and more reliable software.",
+    "bio": "热爱理论计算机科学及其实际应用的软件工程师。演讲者，著有《转向Angular》、codelyzer、Guess.js和Go linter revive。致力于更快速、更可靠的软件。",
     "groups": [
       "Angular"
     ]
@@ -946,7 +946,7 @@
     "picture": "mhartington.png",
     "twitter": "mhartington",
     "website": "https://mhartington.io",
-    "bio": "Mike is a Developer Advocate for the Ionic Framework and a GDE in Angular. He spends most of his time making fast PWAs and exploring emerging web standards. When not behind a keyboard, you'll probably find him with a guitar and beer.",
+    "bio": "Mike 是 Ionic Framework 的开发者倡导者，也是 Angular 的 GDE。他大部分时间都在快速开发 PWA 和探索新兴的 Web 标准。当不在键盘前时，你可能会发现他拿着吉他喝啤酒。",
     "groups": [
       "GDE"
     ]
@@ -956,7 +956,7 @@
     "picture": "michael-hladky.jpg",
     "twitter": "Michael_Hladky",
     "website": "https://github.com/BioPhoton",
-    "bio": "Michael is a self employed trainer, consultant and developer with the focus on Angular, and located in Vienna, Austria. He gives workshops on Angular, RxJS and Ionic. As Google Developer Expert, founder of Angular-Austria-Association and Angular-Vienna meetup, and speaker he is an active part of the community.",
+    "bio": "Michael 是一名自由职业培训师、顾问和开发者，专注于 Angular，并位于奥地利维也纳。他主要开展关于 Angular、RxJS 和 Ionic 的研讨会。作为 Google Developer Expert、Angular-Austria-Association 的创始人和 Angular-Vienna meetup 的组织者，以及演讲者，他是社区活跃的一部分。",
     "groups": [
       "GDE"
     ]
@@ -966,7 +966,7 @@
     "picture": "mira.jpg",
     "twitter": "StanimiraVlaeva",
     "website": "https://github.com/sis0k0",
-    "bio": "Software engineer on the NativeScript team at Progress, focused on NativeScript Angular, NativeScript schematics, and integrating webpack in the {N} build system. Co-organizing the Angular Sofia meetup. Speaking about Angular things at conferences here and there.",
+    "bio": "在 Progress 的 NativeScript 团队担任软件工程师，专注于 NativeScript Angular、NativeScript 原理图和在 {N} 构建系统中集成 webpack。协助组织 Angular Sofia meetup。在各地的会议上谈论 Angular 相关的内容。",
     "groups": [
       "GDE"
     ]
@@ -974,7 +974,7 @@
   "mmalerba": {
     "name": "Miles Malerba",
     "picture": "mmalerba.jpg",
-    "bio": "Miles is a software engineer on the Angular Material team at Google. In addition to Javascripting he enjoys eating food and ogling cute puppies.",
+    "bio": "Miles 是 Google 的 Angular Material 团队的软件工程师。除了编程，他喜欢品尝美食和看可爱的小狗。",
     "groups": [
       "Angular"
     ],
@@ -985,7 +985,7 @@
     "picture": "nartc.jpg",
     "twitter": "Nartc1410",
     "website": "https://nartc.me",
-    "bio": "Chau works to bring the best engineering practices to web application production. He is the creator of AutoMapper TypeScript, @ngneat/tailwind for Angular, and a core member of NestJS. Also, he is one of Angular Vietnam’s founders. He blogs, lives stream, and maintains open-source projects.",
+    "bio": "Chau 致力于将最佳工程实践引入 Web 应用生产。他是 AutoMapper TypeScript、@ngneat/tailwind for Angular 的创作者，也是 NestJS 的核心成员之一。此外，他是 Angular Vietnam 的创始人之一。他撰写博客、直播、并维护开源项目。",
     "groups": [
       "GDE"
     ]
@@ -995,7 +995,7 @@
     "picture": "nicobytes.jpg",
     "twitter": "nicobytes",
     "website": "https://nicobytes.com",
-    "bio": "I'm Software Senior Developer. With more than 8 years of professional software development experience focusing in Web Development, Tech Management and skills for problem-solving. I'm passionate about sharing my knowledge with the community about Web Development and I do this through code contributions, videos, conferences, articles and, creating online content therefore I got recognized by Google like an GDE (Google Developer Expert) in Angular and by Microsoft like an MVP (Most Value Professional).",
+    "bio": "我是一名高级软件开发者。拥有超过 8 年专业软件开发经验，专注于 Web 开发、技术管理和解决问题的能力。我热衷于与社区分享关于 Web 开发的知识，通过代码贡献、视频、会议、文章以及创建在线内容，因此被 Google 认可为 Angular 的 GDE 和微软认可为 MVP。",
     "groups": [
       "GDE"
     ]
@@ -1005,7 +1005,7 @@
     "picture": "nicolasfrizzarin.jpeg",
     "twitter": "Nicooss54",
     "website": "https://dev.to/nicoss54",
-    "bio": "Google Developer Expert in Web Technologies and Angular and OpenJs Foundation Member, Nicolas is a FontEnd specialist and user Interface Designer from Metz, France. He works as a Developer Advocate and Senior Staff Engineer at Sfeir Luxembourg. His daily mission is to help teams to make robust, powerful and beautiful web applications. Besides that, Nicolas is a speaker, and likes to contribute to the community by giving talks, trainings, writing articles or participating in open source projects.",
+    "bio": "Nicolas 是法国梅斯的前端专家和用户界面设计师，拥有 Web 技术和 Angular 的谷歌开发专家，并是 OpenJs Foundation 的成员。他在 Sfeir 卢森堡担任开发者倡导者和高级工程师。他的日常使命是帮助团队打造稳健、强大和美观的 Web 应用程序。此外，Nicolas 是演讲者，喜欢通过演讲、培训、撰写文章或参与开源项目为社区做贡献。",
     "groups": [
       "GDE"
     ]
@@ -1014,7 +1014,7 @@
     "name": "Nir Kaufman",
     "picture": "nirkaufman.jpg",
     "twitter": "nirkaufman",
-    "bio": "Nir is a Principal Frontend Consultant & Head of the Angular department at 500Tech, Google Developer Expert and community leader. He organizes the largest Angular meetup group in Israel (Angular-IL), talks and teaches about front-end technologies around the world. He is also the author of two books about Angular and the founder of the 'Frontend Band'.",
+    "bio": "Nir 是 500Tech 的首席前端顾问兼 Angular 部门负责人，Google Developer Expert 和社区领导者。他组织以色列最大的 Angular meetup 组（Angular-IL），在世界各地演讲和教授前端技术。他也是两本关于 Angular 的书籍作者和 'Frontend Band' 的创始人。",
     "groups": [
       "GDE"
     ]
@@ -1024,7 +1024,7 @@
     "picture": "nishugoel.jpg",
     "twitter": "TheNishuGoel",
     "website": "https://unravelweb.dev",
-    "bio": "Nishu is a Google Developer Expert for Angular and loves to share her learning with everyone. She is the author of the book Step by Step Angular Routing and has written a code-text based course on educative.io. She is a frontend engineer at The DataWorks, London and is recognized as a Microsoft MVP.",
+    "bio": "Nishu 是 Angular 的 Google Developer Expert，热衷于与所有人分享她的学习。她是书籍《Step by Step Angular Routing》的作者，在 educative.io 上编写了基于代码文本的课程。她是伦敦 The DataWorks 的前端工程师，也被认可为 Microsoft MVP。",
     "groups": [
       "GDE"
     ]
@@ -1032,7 +1032,7 @@
   "pascalprecht": {
     "name": "Pascal Precht",
     "picture": "pascalprecht.jpg",
-    "bio": "Pascal is a software engineer, author and Google Developer Expert for the Angular team. He loves contributing to open source and is the creator of the popular angular-translate module. In his spare time he’s fiddling with EDM production.",
+    "bio": "Pascal 是一名软件工程师、作者，也是 Angular 团队的 Google Developer Expert。他热衷于贡献开源项目，是流行的 angular-translate 模块的创作者。在业余时间，他喜欢尝试 EDM 制作。",
     "groups": [
       "GDE"
     ]
@@ -1042,7 +1042,7 @@
     "picture": "craig-spence.jpg",
     "twitter": "phenomnominal",
     "website": "https://github.com/phenomnomnominal",
-    "bio": "Craig is a Software Engineer from New Zealand, working at Spotify in Stockholm. He loves building cool things that help teams build cool things! He also loves punk rock, Disney’s Frozen, and his cat Cosy.",
+    "bio": "Craig 来自新西兰，是一名在斯德哥尔摩 Spotify 工作的软件工程师。他热衷于构建有助于团队创造出色产品的东西！他也喜欢朋克摇滚、迪士尼的《冰雪奇缘》，以及他的猫 Cosy。",
     "groups": [
       "GDE"
     ]
@@ -1051,7 +1051,7 @@
     "name": "Pawel Kozlowski",
     "picture": "pawel.jpg",
     "twitter": "pkozlowski_os",
-    "bio": "Open source hacker, AngularJS book author, AngularUI lead developer. Pawel is an software-development addict who believes in free, open source software. He is a core contributor to the AngularJS framework, AngularUI, Karma-runner and several other projects. He is the co-author of the \"Mastering Web Application Development with AngularJS\" book. When not coding, Pawel can be spotted speaking at various software development conferences.",
+    "bio": "开源黑客、AngularJS 书籍作者、AngularUI 首席开发者。Pawel 是一位痴迷于软件开发的人，相信自由、开源软件。他是 AngularJS 框架、AngularUI、Karma-runner 等多个项目的核心贡献者。他是《Mastering Web Application Development with AngularJS》一书的合著者。在不编码时，你可能会看到 Pawel 在各种软件开发会议上演讲。",
     "groups": [
       "Angular"
     ],
@@ -1062,7 +1062,7 @@
     "picture": "prestonjlamb.png",
     "twitter": "prestonjlamb",
     "website": "https://github.com/pjlamb12",
-    "bio": "Preston is a JavaScript developer, husband, and father of four from Roy, UT. He also writes blog posts, creates training courses for Thinkster.io, and loves learning more about web development. In his free time he likes to spend time with his family and play or watch basketball (Go Jazz!). ",
+    "bio": "Preston 是来自犹他州罗伊市的 JavaScript 开发者，丈夫，四个孩子的父亲。他还撰写博客文章，为 Thinkster.io 创建培训课程，热爱学习更多关于 Web 开发的知识。业余时间，他喜欢与家人在一起，打篮球或观看篮球比赛（去爵士队！）。",
     "groups": [
       "GDE"
     ]
@@ -1072,7 +1072,7 @@
     "picture": "profanis.jpg",
     "twitter": "prodromouf",
     "website": "https://blog.profanis.me",
-    "bio": "Fanis is a Full Stack JavaScript developer, Angular GDE, speaker at meetups, author of the book 'Mastering Angular Reactive Forms', and he constantly creates videos in his YouTube channel to share his knowledge with others. He also teaches Angular in Code.Hub institute and mentors other developers. When he is not behind a keyboard, he spends time with his lovely daughter and enjoys family time with his wife.",
+    "bio": "Fanis 是全栈 JavaScript 开发者、Angular GDE，参加各种 meetup 演讲，撰写书籍《Mastering Angular Reactive Forms》，并在 YouTube 频道上不断制作视频分享知识。他还在 Code.Hub 研究所教授 Angular，并指导其他开发者。当不在键盘前时，他与可爱的女儿共度时光，与妻子享受家庭时光。",
     "groups": [
       "GDE"
     ]
@@ -1081,7 +1081,7 @@
     "name": "Ralph Wang",
     "picture": "ralph.jpg",
     "twitter": "ralph_wang_gde",
-    "bio": "Ralph(Zhicheng Wang) is a senior consultant at ThoughtWorks and also a GDE. He is a technology enthusiast and he is a passionate advocate of 'Simplicity, Professionalism and Sharing'. In his eighteen years of R&D career, he worked as tester, R&D engineer, project manager, product manager and CTO. He is immersed in the excitement of the arrival of the baby.",
+    "bio": "Ralph（王智成）是 ThoughtWorks 的高级顾问，也是 GDE。他是技术爱好者，热情倡导“简约、专业、分享”。在他的十八年研发生涯中，他担任过测试员、研发工程师、项目经理、产品经理和首席技术官。他沉浸在即将迎来宝宝的激动中。",
     "groups": [
       "GDE"
     ]
@@ -1090,7 +1090,7 @@
     "name": "Ricardo Chavarria",
     "picture": "ricardo-chavarria.jpg",
     "twitter": "ricardo_chl",
-    "bio": "Ricardo Chavarria is a software developer with focus in frontend technologies. Organizer of Angular Honduras Community and Ng Conf Honduras. Also is Google Developer Expert in Angular and Auth0 ambassador.",
+    "bio": "Ricardo Chavarria 是一名专注于前端技术的软件开发者。Angular Honduras 社区和 Ng Conf Honduras 的组织者。同时也是 Angular 的 Google Developer Expert 和 Auth0 大使。",
     "groups": [
       "GDE"
     ]
@@ -1100,7 +1100,7 @@
     "picture": "sajee.jpg",
     "twitter": "kokkisajee",
     "website": "https://sajeetharan.com/",
-    "bio": "Sajeetharan is a Cloud Architect, Top contributor on stackoverflow for #Angular, ng-SriLanka organizer. He makes use of his extensive knowledge over the past years to contribute to community to make the world a better place.",
+    "bio": "Sajeetharan 是一名云架构师，在 stackoverflow 上为 #Angular 是顶尖贡献者，也是 ng-SriLanka 组织者。他利用多年的丰富知识为社区贡献，让世界变得更美好。",
     "groups": [
       "GDE"
     ]
@@ -1110,7 +1110,7 @@
     "picture": "samjulien.jpg",
     "twitter": "samjulien",
     "website": "https://www.samjulien.com/",
-    "bio": "Sam Julien builds software, articles, video courses, and campfires. A developer, speaker, writer, and GDE in the Pacific Northwest, Sam's favorite thing in the world is changing someone's life by teaching them to code.",
+    "bio": "Sam Julien 从事软件开发、文章创作、视频课程制作和露营活动。作为太平洋西北地区的开发者、演讲者、作家和 GDE，Sam 最喜欢的事情是通过教授编程改变某人的生活。",
     "groups": [
       "Collaborators",
       "GDE"
@@ -1125,13 +1125,13 @@
     ],
     "twitter": "samvloeberghs",
     "website": "https://samvloeberghs.be",
-    "bio": "Sam is a freelance software architect and Internet entrepreneur, currently focusing on frontend technologies. Co-organiser of the Belgian Angular conference NG-BE and Angular Belgium Meetup group."
+    "bio": "Sam 是一名自由软件架构师和互联网企业家，目前专注于前端技术。他是比利时 Angular 大会 NG-BE 和 Angular Belgium Meetup 组织者之一。"
   },
   "SanderElias": {
     "name": "Sander Elias",
     "picture": "sanderelias.jpg",
     "twitter": "esoSanderElias",
-    "bio": "Sander is a versed developer with over 4 decades of practice under his belt. He is also an Google Developer Expert for web, specializing in Angular. Organizer of meetups and conferences. Helping out others wherever he can. When he is not breathing code, he is fiddling around with IOT, photography, science and anything that might vaguely is gadget-like! Thinks he a master of the grill, but in reality you probably don't get a food-poisoning ;) Also, and actually the most important thing to him, he is a father of 4, and has the most patient girlfriend in the universe.",
+    "bio": "Sander 是一名经验丰富的开发者，拥有超过 4 十年的实践经验。他也是 Angular 的 Google Developer Expert，专注于 Web。他组织 meetup 和会议，随时帮助他人。当他不在编码时，他会忙于物联网、摄影、科学等类似设备的事物！他认为自己是烧烤大师，但实际上你可能不会中毒 ;) 最重要的是，他是四个孩子的父亲，有着宇宙中最有耐心的女友。",
     "groups": [
       "GDE"
     ]
@@ -1141,7 +1141,7 @@
     "picture": "santoshyadav.jpg",
     "twitter": "SantoshYadavDev",
     "website": "https://www.santoshyadav.dev",
-    "bio": "Santosh is a GDE for Angular and loves to contribute to Open Source. He is the creator of ng deploy for netlify and core team member for NestJS Addons. He writes for AngularInDepth, mentors for DotNetTricks, organizes Pune Tech Meetup, and conducts free workshops on Angular.",
+    "bio": "Santosh 是 Angular 的 GDE，热衷于为开源项目做贡献。他是 ng deploy for netlify 的创作者，也是 NestJS Addons 的核心团队成员。他为 AngularInDepth 写作，为 DotNetTricks 提供指导，组织 Pune Tech Meetup，并在 Angular 上进行免费工作坊。",
     "groups": [
       "GDE"
     ]
@@ -1151,7 +1151,7 @@
     "picture": "selin.jpeg",
     "twitter": "selintunc_",
     "website": "https://www.linkedin.com/in/selinkaragulletunc",
-    "bio": "Selin is a Software Developer Expert using Angular and Java at Garanti BBVA Technology in Turkey. She is the first woman Angular GDE in Turkey. She spends her spare time with her family, especially her little son, and by keeping herself up-to-date.",
+    "bio": "Selin 是土耳其 Garanti BBVA Technology 公司的一名使用 Angular 和 Java 的软件开发专家。她是土耳其第一位女性 Angular GDE。她把空闲时间花在与家人，尤其是她的小儿子在一起，并保持自己的时代。",
     "groups": [
       "GDE"
     ]
@@ -1161,7 +1161,7 @@
     "picture": "shaireznik.jpg",
     "twitter": "shai_reznik",
     "website": "https://www.hirez.io",
-    "bio": "Teaches Angular at HiRez.io – the most entertaining online courses on the web. An experienced developer, consultant and speaker also known for his unusual crazy Angular talks such as ng-wat, ng-show, ng-rap, etc. Shai is also the organizer of the largest JavaScript group in Israel and a professional Improv performer.",
+    "bio": "在 HiRez.io 教授 Angular - 这是网络上最有趣的在线课程。Shai 是一名经验丰富的开发者，顾问和演讲者，以其不寻常的 Angular 演讲而闻名，比如 ng-wat、ng-show、ng-rap 等。Shai 也是以色列最大 JavaScript 群组的组织者，同时也是一名专业的即兴表演者。",
     "groups": [
       "GDE"
     ]
@@ -1171,7 +1171,7 @@
     "picture": "sharon.jpg",
     "twitter": "sharondio",
     "website": "https://medium.com/@sharondio",
-    "bio": "Sharon is a mother to four teenagers, wife of a USMC veteran/police officer, and lead front-end engineer for an educational non-profit in Boston. In her spare time, she is the \"Head Instigator\" of the Angular-Boston Meetup and an active member of the Boston meetups community. She occasionally speaks on Angular and related topics at technology conferences across the country. She has a Bachelor of Fine Arts from SMU and a Masters with honors from RTFM.",
+    "bio": "Sharon 是四个青少年的母亲，是一名美国海军陆战队退伍军人/警察的妻子，也是波士顿教育非营利组织的前端主管工程师。在空闲时间，她是 Angular-Boston Meetup 的“首席煽动者”，并且是波士顿 Meetup 社区的活跃成员。她偶尔在全国各地的技术大会上就 Angular 和相关主题发表演讲。她拥有南卫理公会大学的艺术学士学位和 RTFM 的荣誉硕士学位。",
     "groups": [
       "GDE"
     ]
@@ -1180,7 +1180,7 @@
     "name": "Siddharth Ajmera",
     "picture": "sidd-ajmera.jpg",
     "twitter": "SiddAjmera",
-    "bio": "Siddharth is a Full Stack JavaScript Developer and a GDE in Angular. He's passionate about sharing his knowledge on Angular, Firebase and the Web in general. He's the organizer of WebStack, a local community of developers focused on Web, Mobile, Voice and Server related technologies in general. WebStack hosts free monthly meetups every 2nd or 3rd Saturday of the month. Siddharth is also an avid photographer and loves traveling. Find him anywhere on the Web with `SiddAjmera`.",
+    "bio": "Siddharth 是全栈 JavaScript 开发者，也是 Angular 的 GDE。他热衷于分享关于 Angular、Firebase 和 Web 的知识。他是 WebStack 的组织者，这是一个关注 Web、移动、语音和服务器相关技术的本地开发者社区。WebStack 每个月的第二或第三个星期六举办免费的月度见面会。Siddharth 也是一名狂热的摄影师，喜欢旅行。你可以在 Web 上的任何地方找到他的信息，用户名为 <code>SiddAjmera</code>。",
     "groups": [
       "GDE"
     ]
@@ -1190,7 +1190,7 @@
     "picture": "simonacotin.jpg",
     "twitter": "simona_cotin",
     "website": "https://github.com/simonaco",
-    "bio": "Engineering manager working on Angular Framework and Tooling",
+    "bio": "在 Angular 框架和工具上工作的工程经理",
     "groups": [
       "Angular"
     ],
@@ -1200,7 +1200,7 @@
     "name": "Lukas Ruebbelke",
     "picture": "lukas.jpg",
     "twitter": "simpulton",
-    "bio": "Developer. Hacker. Community backer. Author and blogger. Console logger.",
+    "bio": "开发者。黑客。社区支持者。作者和博主。控制台记录员。",
     "groups": [
       "GDE"
     ]
@@ -1212,14 +1212,14 @@
     ],
     "picture": "sonukapoor.jpg",
     "website": "https://www.linkedin.com/in/sonu-kapoor/",
-    "bio": "Sonu is a Software Engineer from Toronto, with a high interest in front-end technologies and algorithms."
+    "bio": "Sonu 是来自多伦多的软件工程师，对前端技术和算法非常感兴趣。"
   },
   "srashtisj": {
     "name": "Srashti Jain",
     "picture": "srashti_jain.jpg",
     "twitter": "srashtisj",
     "website": "https://github.com/srashtisj",
-    "bio": "Srashti is Senior Developer at Hvantage Technologies. She's also a Google Developer Expert for Angular and Microsoft MVP (Developer Technologies) based in India. Co-organiser All About Web (@itsAllAboutWeb) and Indore Technical Community (#ngIndore).",
+    "bio": "Srashti 是 Hvantage Technologies 的高级开发者。她还是一名 Angular 的 Google Developer Expert 和总部位于印度的 Microsoft MVP（开发者技术）成员。她是 All About Web（@itsAllAboutWeb）的联合组织者以及印多尔技术社区（#ngIndore）的活跃成员。",
     "groups": [
       "GDE"
     ]
@@ -1229,7 +1229,7 @@
     "picture": "stevermeister.jpg",
     "twitter": "stevermeister",
     "website": "https://stepansuvorov.com/blog/",
-    "bio": "Stepan is a CTO at Studytube, organizer of Angular Kharkiv(Ukraine), co-organizer Dutch Angular Group, teacher at javascript.info, creator of Angular Pro screencast (angular.ninja)",
+    "bio": "Stepan 是 Studytube 的首席技术官，Angular Kharkiv（乌克兰）的组织者，荷兰 Angular Group 的联合组织者，javascript.info 的教师，Angular Pro screencast（angular.ninja）的创作者。",
     "groups": [
       "GDE"
     ]
@@ -1239,7 +1239,7 @@
     "picture": "thierrychatel.jpg",
     "twitter": "ThierryChatel",
     "website": "https://www.methotic.com/",
-    "bio": "Thierry is a senior consultant and trainer, specialized on Angular, and a Google Developer Expert.",
+    "bio": "Thierry 是一名高级顾问和培训师，专门从事 Angular，并且是一名 Google Developer Expert。",
     "groups": [
       "GDE"
     ]
@@ -1249,7 +1249,7 @@
     "picture": "thekiba.jpg",
     "twitter": "thekiba_io",
     "website": "https://thekiba.io",
-    "bio": "Andrew is a software engineer using Angular and .NET. He spends most of his spare time staying up-to-date, helping other people, and experimenting with web tech.",
+    "bio": "Andrew 是一名使用 Angular 和 .NET 的软件工程师。他大部分空闲时间都用来保持时代，帮助他人，并尝试 Web 技术。",
     "groups": [
       "GDE"
     ]
@@ -1261,14 +1261,14 @@
     "groups": [
       "Angular"
     ],
-    "bio": "Technical Program Manager for the Angular team. Previously Networking and Cloud @ Google. Loves coffee, injera and travel."
+    "bio": "Angular 团队的技术项目经理。之前在谷歌负责网络和云服务。热爱咖啡、 injera 和旅行。"
   },
   "toddmotto": {
     "name": "Todd Motto",
     "picture": "toddmotto.jpg",
     "twitter": "toddmotto",
     "website": "https://ultimateangular.com",
-    "bio": "Owner and trainer at Ultimate Angular. Lives in England, UK. Has a love for teaching, OSS and speaking at conferences. Google Developer Expert for Web Technologies and Angular.",
+    "bio": "Ultimate Angular 的所有者和培训师。居住在英国，热爱教学、开源软件和在会议上演讲。是 Web 技术和 Angular 的 Google Developer Expert。",
     "groups": [
       "GDE"
     ]
@@ -1278,7 +1278,7 @@
     "picture": "thomaslaforge.png",
     "twitter": "laforge_toma",
     "website": "https://thomaslaforge.dev/home",
-    "bio": "Thomas is a contractor with a strong passion for frontend development, specifically focusing on Angular. He is the creator and maintainer of Angular Challenges, a platform that gathers multiple challenges to help you improve your skills in Angular.",
+    "bio": "Thomas 是一名承包商，对前端开发充满热情，特别专注于 Angular。他是 Angular Challenges 的创始人和维护者，这是一个汇集多个挑战的平台，帮助您提升 Angular 技能。",
     "groups": [
       "GDE"
     ]
@@ -1288,7 +1288,7 @@
     "picture": "tomastrajan.jpg",
     "twitter": "tomastrajan",
     "website": "https://medium.com/@tomastrajan",
-    "bio": "Tomas is a Senior Software Engineer with passion for frontend and especially Angular. He always strives to provide lots of value and to empower teams he is working with by sharing know-how, introducing best practices and automating mundane task to enable full focus on creating value for the users! He likes to share his Angular know-how by blogging, speaking and recording video content. He is a co-organizer of Angular Meetup Zurich.",
+    "bio": "Tomas 是一名具有对前端技术，尤其是 Angular 的热情的高级软件工程师。他始终努力提供大量价值，并通过博客、演讲和录制视频内容来支持他所工作的团队。他是 Angular Meetup Zurich 的联合组织者。",
     "groups": [
       "GDE"
     ]
@@ -1301,7 +1301,7 @@
     ],
     "twitter": "ladyleet",
     "website": "https://labs.thisdot.co/",
-    "bio": "Tracy is the Co-Founder of This Dot Labs, a consultancy focused on helping companies with digital transformations. She is also a Google Developer Expert, RxJS Core Team member, a Women Techmakers Lead, and a frequent keynote speaker at conferences. She heads up Community Relations for Node.js at OpenJS Foundation, is the host of the Modern Web podcast, organizer of This.JavaScript, Contributor Days, Google Developer Group Silicon Valley and Triangle, and RxWorkshop. You can find her on Twitter @ladyleet or at https://labs.thisdot.co/."
+    "bio": "Tracy 是 This Dot Labs 的联合创始人，一家专注于帮助公司进行数字转型的咨询公司。她还是一名 Google Developer Expert、RxJS 核心团队成员、Women Techmakers 领导者，经常在各种会议上担任主题发言人。她负责 OpenJS Foundation 的 Node.js 社区关系，主持 Modern Web podcast，组织 This.JavaScript、Contributor Days、Google Developer Group Silicon Valley 和 Triangle 以及 RxWorkshop。你可以在 Twitter @ladyleet 上找到她，或访问 https://labs.thisdot.co/。"
   },
   "trungvose": {
     "name": "Trung Vo",
@@ -1311,13 +1311,13 @@
     ],
     "twitter": "trungvose",
     "website": "https://trungk18.com",
-    "bio": "Trung Vo is a web expert and a Google Developer Expert in Angular, recognized for his open-source projects like Angular Spotify and Jira Clone. He contributes significantly to web development communities in Vietnam and Singapore, particularly through Angular Vietnam and Angular Singapore. Additionally, Trung is a seasoned speaker, having presented at global tech events worldwide."
+    "bio": "Trung Vo 是一名 Web 专家，也是 Angular 的谷歌开发专家，以他的开源项目 Angular Spotify 和 Jira Clone 而闻名。他在越南和新加坡的 Web 开发社区做出了重大贡献，特别是通过 Angular Vietnam 和 Angular Singapore。此外，Trung 是一位经验丰富的演讲者，在全球科技活动中做过演讲。"
   },
   "twerske": {
     "name": "Emma Twersky",
     "picture": "twerske.jpg",
     "twitter": "twerske",
-    "bio": "Emma is a Developer Advocate at Google. She is passionate about good user experiences and design.",
+    "bio": "Emma 是 Google 的开发者倡导者。她热衷于提供优质的用户体验和设计。",
     "groups": [
       "Angular"
     ],
@@ -1328,7 +1328,7 @@
     "picture": "urish.jpg",
     "twitter": "UriShaked",
     "website": "https://urish.org",
-    "bio": "Uri Shaked is a Google Developer Expert for Web Technologies. He regularly writes about Web and IoT related technologies in his medium blog, and speaks about these topics in conferences and meetup around the world. Among his interests are reverse engineering, hardware hacking, building 3d-printed robots and games, playing music and Salsa dancing.",
+    "bio": "Uri Shaked 是 Web 技术的 Google Developer Expert。他经常在他的 Medium 博客上写有关 Web 和物联网技术的文章，并在全球各地的会议和聚会上发表有关这些主题的演讲。他对反向工程、硬件黑客、构建 3D 打印机器人和游戏、演奏音乐以及跳萨尔萨舞等领域感兴趣。",
     "groups": [
       "GDE"
     ]
@@ -1338,7 +1338,7 @@
     "picture": "usergalileo.jpg",
     "twitter": "MicheleStieven",
     "website": "https://accademia.dev",
-    "bio": "Michele is an Angular GDE who’s always looking for technologies which allow people to create complex, dynamic and reactive applications. He helps teams of big and small companies with tools like Angular, RxJS, Redux and Web Components. He loves writing and making complex things easy, and he does so in his italian blog (https://accademia.dev) which also hosts his video courses. He’s taken part of many conferences, meetups and online events, and loves to help people in community groups. When he’s not working, he’s a musician.",
+    "bio": "Michele 是一位 Angular GDE，一直在寻找可以让人们创建复杂、动态和反应式应用程序的技术。他通过 Angular、RxJS、Redux 和 Web 组件等工具帮助大大小小公司的团队。他喜欢撰写复杂的内容，并在他的意大利博客（https://accademia.dev）上提供视频课程。他参加了许多会议、聚会和在线活动，并乐于在社区团体中帮助他人。在工作之外，他是一位音乐家。",
     "groups": [
       "GDE"
     ]
@@ -1348,7 +1348,7 @@
     "picture": "wardbell.jpg",
     "website": "https://github.com/wardbell",
     "twitter": "wardbell",
-    "bio": "Ward is an all-around developer with JavaScript, Node.js®, and .net chops. He's a frequent conference speaker and podcaster, trainer, Google Developer Expert for Angular, Microsoft MVP, and PluralSight author. He is also president of IdeaBlade, an enterprise software consulting firm and the makers of breeze.js. He would like to get more sleep and spend more time in the mountains.",
+    "bio": "Ward 是一位全面的开发人员，精通 JavaScript、Node.js® 和 .net。他经常在会议上发言、主持播客、担任培训师，是 Angular 的 Google Developer Expert、Microsoft MVP 和 PluralSight 作者。他还是 IdeaBlade 的总裁，这是一家企业软件咨询公司，也是 breeze.js 的制造商。他希望能多睡一点，花更多时间在山上。",
     "groups": [
       "GDE"
     ]
@@ -1358,7 +1358,7 @@
     "picture": "waterplea.jpg",
     "twitter": "waterplea",
     "website": "https://alexander.inkin.ru",
-    "bio": "Alex is a front end dev in love with Angular and declarative approach. He enjoys Web for it's multimedia nature and rich features. Actively creating and contributing to open source ecosystem he also does a lot of tech writing. He is a music and movies fan and a Montessori enthusiast father of two kids.",
+    "bio": "Alex 是一名热爱 Angular 和声明式方法的前端开发者。他享受 Web 的多媒体特性和丰富功能。他积极参与开源生态系统的创建和贡献，并进行大量技术写作。他是音乐和电影的粉丝，也是两个孩子的蒙台梭利教育爱好者的父亲。",
     "groups": [
       "GDE"
     ]
@@ -1368,7 +1368,7 @@
     "picture": "webdave.jpg",
     "twitter": "webdave_de",
     "website": "https://github.com/web-dave",
-    "bio": "David is an Angular consultant who offers support for your Angular applications and projects. He’s also a trainer at angular.de, angular-college and swissangular. He loves to speak and teach at meetups and conferences. David also writes his own blog and reviews upcoming books and articles. During leisure time he jumps arround with his 3 boys and his wife. He is an organizer of Angular Hamburg and ng-de.",
+    "bio": "David 是一位 Angular 顾问，为你的 Angular 应用程序和项目提供支持。他还是 angular.de、angular-college 和 swissangular 的培训师。他喜欢在聚会和会议上演讲和教学。David 还撰写自己的博客，审阅即将发布的书籍和文章。在闲暇时间，他和他的妻子以及三个儿子一起跳来跳去。他是 Angular Hamburg 和 ng-de 的组织者。",
     "groups": [
       "GDE"
     ]
@@ -1378,7 +1378,7 @@
     "picture": "wellwind.jpg",
     "twitter": "wellwind",
     "website": "https://wellwind.idv.tw/blog/",
-    "bio": "Mike is a full-stack developer, consultant, blogger, instructor, and conference speaker. He has over 10 years of web development experience and passion to share his knowledge.",
+    "bio": "Mike 是一名全栈开发人员、顾问、博客作者、讲师和会议演讲者。他拥有超过 10 年的 web 开发经验，并热衷于分享他的知识。",
     "groups": [
       "GDE"
     ]
@@ -1388,7 +1388,7 @@
     "picture": "wesgrimes.jpg",
     "twitter": "wesgrimes",
     "website": "https://wesleygrimes.com",
-    "bio": "Wes is a Senior Engineer at Nrwl, Core Team Member of NgRx, active open source contributor, speaker, writer, and mentor. Wes has well over a decade of experience in the insurance and disaster relief industries architecting and building full-stack enterprise software solutions. He has served in roles from tech support to business analysis, project management, and software development. Wes hails from sunny Central Florida and in his free time, he loves taking in sunsets, cooking BBQ, and spending time with his wife and 3 children.",
+    "bio": "Wes 是 Nrwl 的高级工程师，NgRx 核心团队成员，积极的开源贡献者，演讲者，作家和导师。Wes 在保险和灾难救援行业拥有超过十年的经验，负责设计和构建全栈企业软件解决方案。他从技术支持到业务分析、项目管理和软件开发等各种角色中都有担任过。Wes 来自阳光明媚的中佛罗里达，业余时间喜欢欣赏日落、烧烤和与妻子以及三个孩子共度时光。",
     "groups": [
       "GDE"
     ]
@@ -1398,7 +1398,7 @@
     "picture": "willmendesneto.jpg",
     "twitter": "willmendesneto",
     "website": "https://willmendesneto.github.io",
-    "bio": "GDE (Google Developer Expert) Angular and Web Technologies, GDG Salvador organizer, passionate about technology and active in communities with a focus on web development, including Angular, JavaScript, HTML5, CSS3, Workflow, web performance, security and Internet of things. Participates in events organization, speaker at conferences in Brazil and other countries and contributes to several open source projects.",
+    "bio": "GDE（Google Developer Expert）Angular 和 Web 技术专家，GDG Salvador 的组织者，对技术充满激情，并积极参与以 web 开发为重点的社区活动，包括 Angular、JavaScript、HTML5、CSS3、工作流、Web 性能、安全和物联网。参与组织活动，在巴西和其他国家的会议上演讲，并为多个开源项目做出贡献。",
     "groups": [
       "GDE"
     ]
@@ -1408,7 +1408,7 @@
     "picture": "jasonwarner.jpg",
     "twitter": "xocomil_1",
     "website": "https://github.com/xocomil",
-    "bio": "Jason is a Senior Staff Engineer, Google Developer Expert in Angular and mentor. He enjoys code and is particularly passionate about front-end and Angular. Jason enjoys streaming on Twitch and interacting with community members. He loves to help others to achieve their goals.",
+    "bio": "Jason 是一名高级工程师、Angular 的谷歌开发专家和导师。他热爱编码，尤其对前端和 Angular 充满激情。Jason 喜欢在 Twitch 上直播并与社区成员互动。他乐于帮助他人实现他们的目标。",
     "groups": [
       "GDE"
     ]
@@ -1418,7 +1418,7 @@
     "picture": "yannickbaron.jpg",
     "twitter": "yannick_baron",
     "website": "https://thinktecture.com",
-    "bio": "Yannick is an Angular GDE (Google Developer Expert) and a consultant at Thinktecture in Germany. He has a passion for RxJS and reactive programming, and loves to help others improve their understanding of development with TypeScript and Angular. In his spare time, Yannick enjoys staying up-to-date with the latest trends and techniques in the world of web development. In addition to his work as a consultant, Yannick is also an active blogger and frequently speaks at conferences and meetups about topics related to Angular, RxJS, and reactive state management.",
+    "bio": "Yannick 是 Angular GDE（Google Developer Expert）和 Thinktecture 德国分公司的顾问。他热衷于 RxJS 和响应式编程，并乐于帮助他人提高对 TypeScript 和 Angular 开发的理解。业余时间，Yannick 喜欢了解 Web 开发领域的最新趋势和技术。除了作为顾问的工作外，Yannick 还是一名积极的博客作者，经常在会议和聚会上演讲，内容涉及 Angular、RxJS 和响应式状态管理等主题。",
     "groups": [
       "GDE"
     ]
@@ -1428,7 +1428,7 @@
     "picture": "jaybell.jpg",
     "twitter": "jaycooperbell",
     "website": "https://tech.trellis.org",
-    "bio": "Jay is the CTO and Co-Founder of a Social Enterprise in Canada that is using Angular and technology to empower global collective impact in the non-profit and charity industries. He is an avid contributor to Nx and loves Angular, NgRx and Nest. Jay loves to share knowledge he has learned from figuring out problems (complex or otherwise) so that others can solve them easier the next time.",
+    "bio": "Jay 是加拿大社会企业的首席技术官和联合创始人，利用 Angular 和技术来推动非营利组织和慈善行业全球集体影响的力量。他是 Nx 的积极贡献者，热爱 Angular、NgRx 和 Nest。Jay 热衷于分享他从解决问题（复杂或简单）中学到的知识，以便其他人在下次解决问题时更容易。",
     "groups": [
       "GDE"
     ]
@@ -1438,7 +1438,7 @@
     "picture": "younes.jpg",
     "twitter": "yjaaidi",
     "website": "https://marmicode.io",
-    "bio": "Younes is a software cook, trainer, and coach who loves the challenge of boosting teams' efficiency and helping everyone enjoy every part of their job. His experience convinced him that the key to making quality products is collective ownership, passion, and knowledge sharing. In his spare time, you will find him contributing to open-source software, writing articles or speaking at meetups or conferences… and sometimes sailing. His favorite trick? Adding features by removing code. He is also the co-creator of the JSCutlery open-source community.",
+    "bio": "Younes 是一位软件厨师，培训师和教练，热衷于挑战提升团队效率，并帮助每个人享受工作的每个部分。他的经验让他相信制作优质产品的关键在于集体所有权、热情和知识分享。在业余时间，你会发现他在为开源软件做贡献、撰写文章或者在聚会或会议上演讲……有时还会航行。他最喜欢的技巧是通过减少代码来添加功能。他还是 JSCutlery 开源社区的共同创始人。",
     "groups": [
       "GDE"
     ]
@@ -1448,7 +1448,7 @@
     "picture": "yurzui.jpg",
     "twitter": "yurzui",
     "website": "https://medium.com/@a.yurich.zuev",
-    "bio": "Alexey is a web development addict who likes diving deep into the source code and sharing his knowledge through visualization. Creator of ng-run.com",
+    "bio": "Alexey 是一位痴迷于 web 开发的人，喜欢深入研究源代码，并通过可视化分享他的知识。ng-run.com 的创始人。",
     "groups": [
       "GDE"
     ]
@@ -1456,7 +1456,7 @@
   "zackderose": {
     "name": "Zack DeRose",
     "picture": "zack-derose.jpg",
-    "bio": "Zack DeRose is Senior Engineer for Narwhal Technologies, where he works to build a better world through tech! In addition to the enterprise consulting done at Narwhal, Zack is very interested in content creation and teaching others! When not building web applications at scale, Zack enjoys a robust family life at scale, living in Phoenix AZ with his wife and 6 kids.",
+    "bio": "Zack DeRose 是 Narwhal Technologies 的高级工程师，在那里致力于通过技术建立一个更美好的世界！除了在 Narwhal 进行企业咨询外，Zack 对内容创作和教导他人非常感兴趣！当他不在大规模构建 web 应用程序时，Zack 在亚利桑那州凤凰城与妻子和6个孩子共度丰富的家庭生活。",
     "groups": [
       "GDE"
     ],
@@ -1466,7 +1466,7 @@
   "zarend": {
     "name": "Zach Arend",
     "picture": "zach-arend.jpg",
-    "bio": "Zach is a software engineer at Google on the Angular Core team. He is passionate about a good user experience, burritos and puppies.",
+    "bio": "Zach 是 Google Angular 核心团队的软件工程师。他热衷于良好的用户体验、墨西哥卷饼和小狗。",
     "groups": [
       "Angular"
     ],
