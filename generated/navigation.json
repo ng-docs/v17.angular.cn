@@ -9,8 +9,18 @@
       "url": "resources"
     },
     {
-      "title": "博客",
+      "title": "官方博客",
       "url": "https://blog.angular.io/"
+    },
+    {
+      "url": "https://blog.ralph.wang",
+      "title": "译者博客",
+      "tooltip": "译者汪志成的博客，包括翻译文章和原创文章"
+    },
+    {
+      "url": "translations/cn/home",
+      "titleCn": "关于中文版",
+      "title": "关于中文版"
     }
   ],
   "TopBarNarrow": [
